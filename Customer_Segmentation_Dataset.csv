@@ -1,0 +1,1201 @@
+CustomerID,Age,AnnualIncome,PurchaseFrequency,AvgOrderValue,TotalSpend,RecencyDays,TenureMonths,DiscountAffinity,NumReturns,SatisfactionScore,Gender,Region,PreferredCategory,PreferredChannel,Segment,SegmentName
+CUST00001,57,103684.99,25,82.08,2051.99,1,16,0.265,1,5,Female,West,Electronics,In-Store,0,High-Value Loyalists
+CUST00002,26,36809.89,15,13.69,205.41,62,7,0.73,1,3,Female,North,Fashion,Mobile App,1,Young Trend Seekers
+CUST00003,36,75111.32,3,56.4,169.19,128,28,0.211,1,3,Male,South,Sports,In-Store,3,At-Risk / Occasional
+CUST00004,22,54104.2,1,31.47,31.47,20,52,0.252,0,3,Female,South,Groceries,In-Store,3,At-Risk / Occasional
+CUST00005,44,41771.5,4,34.29,137.15,52,36,0.696,0,3,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST00006,30,41192.74,6,24.23,145.39,13,46,0.838,1,3,Male,East,Groceries,Online,2,Budget Shoppers
+CUST00007,68,54448.31,12,41.49,497.82,31,23,0.655,2,5,Female,West,Home & Garden,In-Store,2,Budget Shoppers
+CUST00008,21,37017.79,11,16.27,178.92,11,25,0.381,0,3,Female,North,Fashion,Mobile App,1,Young Trend Seekers
+CUST00009,36,64050.21,5,96.87,484.36,5,27,0.714,0,2,Male,South,Books,Mobile App,2,Budget Shoppers
+CUST00010,18,27121.96,2,35.47,70.95,82,44,0.123,0,4,Female,Central,Fashion,Online,3,At-Risk / Occasional
+CUST00011,45,34372.29,6,41.73,250.4,17,53,0.585,1,3,Female,South,Books,In-Store,2,Budget Shoppers
+CUST00012,23,24257.87,13,48.85,635.11,6,1,0.849,0,4,Female,West,Beauty,Mobile App,1,Young Trend Seekers
+CUST00013,19,45550.99,12,34.29,411.5,17,5,0.454,2,2,Female,North,Beauty,Mobile App,1,Young Trend Seekers
+CUST00014,59,18000.0,3,36.87,110.6,7,14,0.741,1,3,Male,South,Groceries,In-Store,2,Budget Shoppers
+CUST00015,46,41758.85,11,20.08,220.88,32,23,0.82,1,3,Male,Central,Books,In-Store,2,Budget Shoppers
+CUST00016,45,50676.78,9,19.23,173.07,17,8,0.567,0,4,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST00017,30,111241.59,24,265.68,6376.29,24,60,0.209,3,3,Female,East,Electronics,Mobile App,0,High-Value Loyalists
+CUST00018,34,62057.52,1,41.22,41.22,9,29,0.061,0,3,Male,Central,Beauty,Mobile App,3,At-Risk / Occasional
+CUST00019,51,73589.99,25,100.7,2517.51,1,55,0.103,1,4,Male,North,Fashion,In-Store,0,High-Value Loyalists
+CUST00020,41,116049.8,27,145.01,3915.24,24,51,0.321,1,4,Female,North,Sports,In-Store,0,High-Value Loyalists
+CUST00021,49,50432.56,2,66.4,132.79,171,3,0.606,0,3,Male,North,Home & Garden,In-Store,3,At-Risk / Occasional
+CUST00022,54,38755.37,5,17.39,86.94,34,41,0.8,1,2,Female,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST00023,45,94317.03,23,95.97,2207.28,3,45,0.203,1,3,Male,East,Electronics,In-Store,0,High-Value Loyalists
+CUST00024,58,122411.52,18,80.02,1440.3,43,33,0.005,2,4,Female,Central,Fashion,Online,0,High-Value Loyalists
+CUST00025,43,76725.71,15,110.58,1658.68,8,84,0.147,2,3,Other,West,Electronics,Online,0,High-Value Loyalists
+CUST00026,34,47864.91,4,31.36,125.44,43,1,0.156,1,2,Female,West,Electronics,Online,3,At-Risk / Occasional
+CUST00027,52,54618.65,9,32.62,293.62,13,22,0.807,1,3,Female,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00028,58,65040.59,1,23.7,23.7,41,14,0.502,0,3,Male,West,Toys,In-Store,2,Budget Shoppers
+CUST00029,19,65798.72,2,31.23,62.45,365,18,0.43,0,2,Female,North,Electronics,Online,3,At-Risk / Occasional
+CUST00030,40,39277.77,7,8.0,56.0,4,44,0.681,0,4,Female,West,Groceries,In-Store,2,Budget Shoppers
+CUST00031,44,53167.32,1,72.39,72.39,78,13,0.201,0,3,Female,Central,Sports,Mobile App,3,At-Risk / Occasional
+CUST00032,46,38083.59,5,24.88,124.42,36,38,0.766,2,4,Female,South,Books,Mobile App,2,Budget Shoppers
+CUST00033,39,51359.14,4,27.29,109.17,35,43,0.811,1,3,Male,West,Home & Garden,In-Store,2,Budget Shoppers
+CUST00034,21,37090.19,18,8.0,144.0,9,15,0.335,0,2,Male,South,Beauty,Online,1,Young Trend Seekers
+CUST00035,26,53733.91,14,35.37,495.24,22,4,0.641,1,5,Other,Central,Fashion,Online,1,Young Trend Seekers
+CUST00036,23,25817.44,23,19.12,439.68,1,17,0.596,1,3,Female,West,Fashion,In-Store,1,Young Trend Seekers
+CUST00037,45,101672.33,24,91.5,2196.04,16,82,0.23,1,3,Female,West,Fashion,Online,0,High-Value Loyalists
+CUST00038,38,50184.06,6,24.61,147.64,18,15,0.821,0,4,Female,Central,Home & Garden,Online,2,Budget Shoppers
+CUST00039,35,73315.74,1,56.93,56.93,191,33,0.229,0,2,Male,East,Toys,Online,3,At-Risk / Occasional
+CUST00040,46,128740.88,25,205.56,5138.94,15,112,0.231,1,4,Male,Central,Electronics,In-Store,0,High-Value Loyalists
+CUST00041,42,34616.91,10,15.79,157.95,55,48,0.727,1,3,Male,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00042,62,129167.32,24,171.13,4107.23,5,48,0.312,1,4,Male,East,Fashion,In-Store,0,High-Value Loyalists
+CUST00043,39,25201.17,7,37.77,264.38,4,38,0.872,0,3,Male,Central,Groceries,Online,2,Budget Shoppers
+CUST00044,24,16778.73,13,38.16,496.12,9,8,0.328,2,3,Male,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST00045,42,38885.24,3,35.09,105.27,128,19,0.54,0,2,Female,North,Books,In-Store,3,At-Risk / Occasional
+CUST00046,39,34641.52,2,46.34,92.68,248,29,0.378,0,2,Male,Central,Toys,Mobile App,3,At-Risk / Occasional
+CUST00047,30,116341.11,23,143.2,3293.59,3,66,0.127,1,3,Male,North,Sports,Mobile App,0,High-Value Loyalists
+CUST00048,53,15000.0,3,40.27,120.8,13,40,0.175,0,3,Female,East,Fashion,In-Store,2,Budget Shoppers
+CUST00049,38,41895.95,2,32.43,64.86,26,30,0.303,0,2,Male,Central,Groceries,In-Store,3,At-Risk / Occasional
+CUST00050,66,45418.81,5,23.85,119.26,21,48,0.578,0,3,Female,West,Groceries,In-Store,2,Budget Shoppers
+CUST00051,25,54421.06,18,41.18,741.32,11,12,0.647,3,3,Female,East,Beauty,In-Store,1,Young Trend Seekers
+CUST00052,38,31902.81,1,72.12,72.12,154,5,0.601,0,2,Female,North,Groceries,Mobile App,3,At-Risk / Occasional
+CUST00053,23,43428.46,18,29.75,535.58,2,23,0.557,1,3,Male,South,Beauty,Online,1,Young Trend Seekers
+CUST00054,25,35175.01,10,16.06,160.65,4,24,0.577,0,3,Female,West,Beauty,Mobile App,1,Young Trend Seekers
+CUST00055,29,47607.24,2,69.34,138.69,39,47,0.379,0,4,Female,North,Books,Online,2,Budget Shoppers
+CUST00056,28,24543.43,9,27.18,244.58,27,19,0.724,0,2,Male,Central,Beauty,Online,2,Budget Shoppers
+CUST00057,54,43616.24,9,36.86,331.71,27,28,0.738,0,3,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST00058,54,49962.76,9,27.04,243.37,1,26,0.445,1,3,Female,North,Books,Online,2,Budget Shoppers
+CUST00059,53,50092.22,4,28.56,114.24,2,47,0.752,1,4,Female,Central,Groceries,Online,2,Budget Shoppers
+CUST00060,30,102801.25,20,197.29,3945.74,8,54,0.119,4,4,Male,East,Electronics,In-Store,0,High-Value Loyalists
+CUST00061,56,117222.87,22,135.78,2987.13,3,56,0.139,2,4,Female,North,Electronics,In-Store,0,High-Value Loyalists
+CUST00062,41,62504.24,6,24.12,144.72,21,41,0.482,0,3,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST00063,20,41223.94,14,31.78,444.88,18,24,0.408,1,2,Female,Central,Fashion,Mobile App,1,Young Trend Seekers
+CUST00064,51,94152.55,12,145.79,1749.54,9,47,0.173,1,3,Female,East,Fashion,In-Store,0,High-Value Loyalists
+CUST00065,39,122157.66,19,211.28,4014.38,8,38,0.223,3,5,Female,North,Fashion,In-Store,0,High-Value Loyalists
+CUST00066,28,61507.06,1,22.13,22.13,5,21,0.061,0,2,Female,South,Electronics,Mobile App,3,At-Risk / Occasional
+CUST00067,45,28634.8,5,36.94,184.72,31,31,0.616,0,2,Male,North,Groceries,In-Store,2,Budget Shoppers
+CUST00068,18,52054.95,17,20.16,342.7,2,28,0.329,1,3,Female,West,Electronics,Online,1,Young Trend Seekers
+CUST00069,63,37515.59,7,19.08,133.57,3,31,0.435,2,2,Female,Central,Groceries,Online,2,Budget Shoppers
+CUST00070,26,33994.17,17,30.71,522.11,7,18,0.656,1,2,Male,South,Fashion,Online,1,Young Trend Seekers
+CUST00071,31,73358.64,2,85.67,171.33,24,21,0.434,0,4,Male,Central,Electronics,In-Store,3,At-Risk / Occasional
+CUST00072,22,39425.96,7,49.15,344.08,9,7,0.74,0,4,Female,East,Books,In-Store,1,Young Trend Seekers
+CUST00073,43,59711.09,4,27.58,110.34,12,54,1.0,0,2,Female,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00074,28,40678.87,20,38.67,773.35,3,14,0.783,1,3,Female,East,Electronics,In-Store,1,Young Trend Seekers
+CUST00075,47,58505.25,1,84.14,84.14,115,15,0.245,0,3,Male,West,Groceries,Mobile App,3,At-Risk / Occasional
+CUST00076,52,64235.54,1,59.5,59.5,121,29,0.484,0,2,Male,North,Sports,In-Store,3,At-Risk / Occasional
+CUST00077,26,58812.71,1,12.19,12.19,6,1,0.242,0,2,Male,South,Beauty,Online,3,At-Risk / Occasional
+CUST00078,52,49136.4,4,35.85,143.4,8,48,0.658,0,4,Female,East,Groceries,Online,2,Budget Shoppers
+CUST00079,43,129052.55,18,123.74,2227.35,11,32,0.26,0,3,Female,West,Sports,In-Store,0,High-Value Loyalists
+CUST00080,34,49039.64,8,22.44,179.54,34,23,0.606,0,3,Male,South,Groceries,In-Store,2,Budget Shoppers
+CUST00081,24,25364.42,21,9.45,198.35,41,2,0.4,2,4,Male,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST00082,52,77250.35,5,57.32,286.58,5,41,0.482,0,3,Male,East,Beauty,In-Store,2,Budget Shoppers
+CUST00083,27,76670.05,21,124.13,2606.8,8,69,0.304,1,4,Male,Central,Electronics,Online,0,High-Value Loyalists
+CUST00084,49,38940.77,3,36.02,108.05,53,37,0.561,0,3,Female,South,Home & Garden,Online,2,Budget Shoppers
+CUST00085,39,60000.0,21,136.91,2875.01,4,60,0.202,1,4,Female,West,Fashion,Online,0,High-Value Loyalists
+CUST00086,34,107715.08,20,129.56,2591.24,3,34,0.324,1,3,Male,West,Electronics,Online,0,High-Value Loyalists
+CUST00087,40,55915.98,1,48.47,48.47,136,24,0.0,0,2,Male,Central,Beauty,Online,3,At-Risk / Occasional
+CUST00088,63,53063.94,1,55.74,55.74,7,20,0.148,0,2,Male,North,Beauty,In-Store,3,At-Risk / Occasional
+CUST00089,19,40958.06,20,50.97,1019.33,4,3,0.678,2,3,Female,North,Fashion,Mobile App,1,Young Trend Seekers
+CUST00090,41,120460.27,18,72.44,1303.88,11,45,0.246,0,4,Male,South,Sports,In-Store,0,High-Value Loyalists
+CUST00091,75,27989.13,9,27.76,249.88,18,64,0.705,0,4,Female,South,Groceries,In-Store,2,Budget Shoppers
+CUST00092,40,55744.82,3,45.53,136.6,340,30,0.272,0,3,Male,West,Toys,Online,3,At-Risk / Occasional
+CUST00093,23,63503.31,3,19.99,59.98,34,30,0.494,0,3,Female,East,Home & Garden,Online,3,At-Risk / Occasional
+CUST00094,26,61101.89,1,18.12,18.12,126,1,0.027,0,3,Other,Central,Fashion,In-Store,3,At-Risk / Occasional
+CUST00095,19,68153.75,2,14.47,28.95,5,20,0.319,0,3,Female,East,Sports,In-Store,3,At-Risk / Occasional
+CUST00096,51,95528.58,16,196.81,3148.96,13,49,0.211,0,5,Female,East,Electronics,In-Store,0,High-Value Loyalists
+CUST00097,18,79932.68,2,31.94,63.88,156,41,0.0,0,4,Female,Central,Sports,Online,3,At-Risk / Occasional
+CUST00098,48,60000.0,18,98.8,1778.45,1,45,0.268,1,3,Male,South,Fashion,Online,0,High-Value Loyalists
+CUST00099,58,47216.79,9,42.42,381.76,6,35,0.763,2,4,Female,North,Books,In-Store,2,Budget Shoppers
+CUST00100,36,44971.5,7,24.66,172.6,1,44,0.796,1,2,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST00101,47,48018.67,5,15.86,79.29,42,24,0.729,0,4,Female,North,Books,In-Store,2,Budget Shoppers
+CUST00102,44,49546.8,3,45.13,135.39,6,44,0.485,0,3,Male,East,Fashion,In-Store,2,Budget Shoppers
+CUST00103,38,96549.75,17,135.51,2303.67,16,74,0.057,1,4,Female,North,Electronics,In-Store,0,High-Value Loyalists
+CUST00104,35,45130.83,4,75.41,301.63,9,11,0.207,2,2,Male,South,Fashion,In-Store,3,At-Risk / Occasional
+CUST00105,24,26728.08,12,33.16,397.86,1,1,0.628,0,5,Male,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00106,33,45104.07,5,44.37,221.83,42,41,0.851,0,2,Male,North,Groceries,In-Store,2,Budget Shoppers
+CUST00107,40,84860.41,24,163.91,3933.82,3,85,0.214,4,4,Male,North,Electronics,In-Store,0,High-Value Loyalists
+CUST00108,54,48986.61,1,44.53,44.53,8,16,0.463,0,3,Male,West,Beauty,In-Store,2,Budget Shoppers
+CUST00109,48,41219.2,5,30.87,154.37,1,38,0.582,1,3,Female,East,Groceries,In-Store,2,Budget Shoppers
+CUST00110,67,50973.84,9,29.23,263.11,2,55,0.802,2,3,Male,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00111,37,132252.34,28,139.91,3917.57,6,85,0.238,1,4,Male,East,Fashion,In-Store,0,High-Value Loyalists
+CUST00112,28,56635.29,3,33.9,101.69,4,27,0.923,0,3,Male,East,Books,Mobile App,2,Budget Shoppers
+CUST00113,22,30653.16,14,67.39,943.45,6,26,0.76,1,3,Female,Central,Beauty,Online,1,Young Trend Seekers
+CUST00114,26,38108.46,21,44.78,940.35,10,1,0.623,0,3,Male,East,Beauty,In-Store,1,Young Trend Seekers
+CUST00115,32,21948.86,2,10.0,20.0,121,12,0.42,0,3,Male,North,Beauty,Online,3,At-Risk / Occasional
+CUST00116,26,42184.29,10,20.32,203.25,3,16,0.37,3,3,Female,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST00117,29,31962.13,21,49.88,1047.42,3,8,0.656,2,2,Female,Central,Beauty,Mobile App,1,Young Trend Seekers
+CUST00118,46,48519.69,11,25.9,284.9,43,35,0.752,2,4,Male,Central,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00119,18,35757.56,20,36.0,720.09,32,11,0.39,1,3,Male,East,Fashion,Online,1,Young Trend Seekers
+CUST00120,37,44411.74,1,48.09,48.09,360,41,0.557,0,1,Female,Central,Groceries,In-Store,3,At-Risk / Occasional
+CUST00121,21,23724.0,14,24.74,346.4,19,1,0.808,1,4,Female,North,Fashion,In-Store,1,Young Trend Seekers
+CUST00122,24,31051.37,15,8.0,120.0,16,17,0.684,0,3,Male,West,Fashion,In-Store,1,Young Trend Seekers
+CUST00123,48,75675.84,21,145.49,3055.31,11,83,0.125,2,3,Female,East,Fashion,Online,0,High-Value Loyalists
+CUST00124,59,49744.1,7,45.5,318.53,48,37,0.724,1,2,Female,Central,Books,In-Store,2,Budget Shoppers
+CUST00125,46,53774.84,7,35.48,248.38,60,26,0.847,1,3,Female,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00126,60,90537.69,15,163.68,2455.19,27,77,0.445,1,3,Female,East,Electronics,Online,0,High-Value Loyalists
+CUST00127,25,55176.4,14,39.46,552.51,21,27,0.764,0,5,Male,South,Beauty,In-Store,1,Young Trend Seekers
+CUST00128,29,47589.06,18,51.82,932.73,30,32,0.253,4,2,Male,Central,Beauty,Mobile App,1,Young Trend Seekers
+CUST00129,61,46943.84,6,43.7,262.2,41,30,0.503,0,4,Male,West,Groceries,In-Store,2,Budget Shoppers
+CUST00130,39,45382.37,2,41.42,82.83,54,1,0.518,0,3,Female,Central,Beauty,Online,3,At-Risk / Occasional
+CUST00131,45,100910.58,23,121.37,2791.46,1,56,0.119,3,4,Male,East,Fashion,Online,0,High-Value Loyalists
+CUST00132,46,43906.91,8,23.87,190.95,129,27,0.751,0,3,Female,East,Books,In-Store,2,Budget Shoppers
+CUST00133,46,30549.35,3,30.67,92.01,6,30,0.638,0,3,Female,West,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00134,28,84937.76,38,147.97,5622.93,1,65,0.285,1,5,Female,South,Electronics,In-Store,0,High-Value Loyalists
+CUST00135,18,47376.35,16,9.37,149.93,25,10,0.527,2,3,Male,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00136,37,121117.8,22,92.63,2037.76,5,50,0.195,1,5,Male,North,Fashion,Mobile App,0,High-Value Loyalists
+CUST00137,30,19642.73,1,50.24,50.24,77,1,0.844,0,3,Other,North,Beauty,In-Store,2,Budget Shoppers
+CUST00138,41,51044.49,3,76.22,228.66,41,56,0.261,0,3,Female,East,Fashion,Online,3,At-Risk / Occasional
+CUST00139,25,121708.68,18,241.18,4341.29,11,72,0.335,1,5,Female,North,Electronics,Online,0,High-Value Loyalists
+CUST00140,21,34859.54,16,24.13,386.01,35,6,0.102,1,2,Female,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00141,25,40024.48,14,56.28,787.96,21,11,0.576,1,3,Male,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST00142,22,57522.27,3,23.44,70.32,32,34,0.578,0,3,Male,East,Groceries,In-Store,2,Budget Shoppers
+CUST00143,34,120158.44,24,132.98,3191.46,1,73,0.353,1,4,Female,North,Electronics,Online,0,High-Value Loyalists
+CUST00144,43,96976.72,23,115.64,2659.83,7,41,0.216,0,5,Male,West,Electronics,Mobile App,0,High-Value Loyalists
+CUST00145,51,125767.55,19,135.66,2577.47,2,44,0.3,0,4,Female,South,Sports,Mobile App,0,High-Value Loyalists
+CUST00146,34,44685.53,12,20.41,244.9,18,56,0.659,3,4,Female,North,Home & Garden,In-Store,1,Young Trend Seekers
+CUST00147,53,60240.6,2,51.97,103.93,269,6,0.483,0,2,Female,North,Electronics,Online,3,At-Risk / Occasional
+CUST00148,38,50382.08,1,46.34,46.34,108,39,0.679,0,1,Female,East,Beauty,Mobile App,3,At-Risk / Occasional
+CUST00149,34,63705.09,3,40.13,120.39,1,39,0.764,0,5,Female,East,Groceries,In-Store,2,Budget Shoppers
+CUST00150,42,28268.38,4,15.96,63.84,159,31,0.539,1,3,Male,North,Home & Garden,Online,3,At-Risk / Occasional
+CUST00151,22,43041.42,14,16.52,231.32,2,16,0.849,1,4,Female,East,Beauty,Online,1,Young Trend Seekers
+CUST00152,46,35170.33,9,28.61,257.47,51,5,0.711,1,3,Female,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00153,53,52775.22,4,37.26,149.04,2,49,0.52,0,3,Male,West,Groceries,In-Store,2,Budget Shoppers
+CUST00154,43,125363.14,18,154.14,2774.55,21,54,0.223,0,4,Female,South,Fashion,Online,0,High-Value Loyalists
+CUST00155,22,54189.52,15,35.05,525.77,10,10,0.236,1,3,Female,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00156,46,45776.49,9,41.2,370.76,40,46,0.767,0,2,Female,North,Groceries,Online,2,Budget Shoppers
+CUST00157,60,46432.21,1,28.19,28.19,5,15,0.61,0,4,Female,East,Fashion,Online,2,Budget Shoppers
+CUST00158,45,48555.47,2,46.67,93.34,44,10,0.415,0,2,Male,East,Groceries,Online,3,At-Risk / Occasional
+CUST00159,27,55454.44,8,37.68,301.46,57,25,0.594,0,3,Male,West,Books,In-Store,3,At-Risk / Occasional
+CUST00160,48,41049.38,1,10.0,10.0,36,13,0.535,0,1,Female,Central,Home & Garden,Mobile App,3,At-Risk / Occasional
+CUST00161,40,101606.64,19,207.92,3950.55,1,42,0.19,1,4,Female,Central,Fashion,Online,0,High-Value Loyalists
+CUST00162,26,48398.83,1,62.25,62.25,140,26,0.429,0,2,Female,West,Fashion,In-Store,3,At-Risk / Occasional
+CUST00163,41,15000.0,1,35.73,35.73,129,1,0.853,0,3,Female,South,Books,In-Store,2,Budget Shoppers
+CUST00164,61,74906.29,2,11.6,23.2,12,10,0.443,1,2,Male,North,Books,Mobile App,2,Budget Shoppers
+CUST00165,36,35907.04,4,24.38,97.5,39,43,0.95,1,4,Male,West,Home & Garden,Online,2,Budget Shoppers
+CUST00166,26,25552.81,12,22.3,267.62,1,21,0.607,0,3,Female,North,Electronics,Mobile App,1,Young Trend Seekers
+CUST00167,26,138871.33,16,187.81,3004.94,14,69,0.353,2,4,Male,East,Fashion,In-Store,0,High-Value Loyalists
+CUST00168,63,38227.54,2,33.73,67.47,64,1,0.74,0,3,Female,West,Books,Mobile App,2,Budget Shoppers
+CUST00169,28,49867.59,7,26.7,186.88,1,14,0.795,0,3,Female,West,Books,Mobile App,2,Budget Shoppers
+CUST00170,18,54794.97,3,56.68,170.04,14,1,0.425,0,3,Male,South,Books,In-Store,1,Young Trend Seekers
+CUST00171,33,51189.99,1,73.37,73.37,186,1,0.288,0,3,Female,South,Books,In-Store,3,At-Risk / Occasional
+CUST00172,38,38408.11,10,44.69,446.88,66,14,0.656,0,3,Female,South,Books,Online,2,Budget Shoppers
+CUST00173,48,76640.3,3,43.52,130.55,242,17,0.049,1,3,Female,North,Groceries,In-Store,3,At-Risk / Occasional
+CUST00174,52,53578.53,7,25.01,175.05,50,27,0.546,0,4,Female,North,Home & Garden,In-Store,2,Budget Shoppers
+CUST00175,50,17076.69,3,42.18,126.53,7,44,0.204,0,3,Female,Central,Groceries,Mobile App,2,Budget Shoppers
+CUST00176,66,55333.64,6,23.44,140.66,26,18,0.574,0,3,Female,West,Home & Garden,Online,2,Budget Shoppers
+CUST00177,70,76429.87,4,47.48,189.91,214,5,0.085,0,2,Male,East,Toys,In-Store,3,At-Risk / Occasional
+CUST00178,47,134782.26,27,230.86,6233.17,14,51,0.129,1,5,Female,South,Sports,Mobile App,0,High-Value Loyalists
+CUST00179,30,19047.02,20,36.78,735.69,14,9,0.718,1,3,Female,East,Fashion,Online,1,Young Trend Seekers
+CUST00180,32,55763.67,4,23.14,92.56,60,28,0.749,0,4,Male,South,Groceries,Mobile App,2,Budget Shoppers
+CUST00181,46,131924.52,21,230.9,4848.85,1,77,0.31,2,5,Female,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST00182,56,31730.92,3,24.18,72.54,1,11,0.743,0,1,Female,South,Groceries,Online,2,Budget Shoppers
+CUST00183,30,60767.46,21,34.1,716.17,15,1,0.452,2,4,Female,North,Fashion,Mobile App,1,Young Trend Seekers
+CUST00184,20,43991.12,19,43.64,829.2,2,1,0.518,0,3,Female,West,Beauty,Mobile App,1,Young Trend Seekers
+CUST00185,48,46417.46,4,17.91,71.63,31,37,0.651,1,3,Female,North,Home & Garden,In-Store,2,Budget Shoppers
+CUST00186,55,34908.44,5,32.91,164.53,118,34,0.478,1,1,Male,North,Beauty,Mobile App,3,At-Risk / Occasional
+CUST00187,21,62932.13,18,23.99,431.86,15,15,0.204,1,5,Female,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00188,18,36076.42,2,96.4,192.8,76,1,0.536,0,2,Female,South,Toys,Online,3,At-Risk / Occasional
+CUST00189,55,40242.42,1,23.04,23.04,52,20,0.518,0,3,Male,North,Beauty,Online,2,Budget Shoppers
+CUST00190,58,40441.62,3,29.65,88.94,2,14,0.567,1,3,Male,North,Groceries,Online,2,Budget Shoppers
+CUST00191,59,43663.29,8,21.48,171.82,28,14,0.467,1,4,Female,South,Home & Garden,In-Store,2,Budget Shoppers
+CUST00192,22,38496.42,14,43.98,615.74,5,10,0.344,1,3,Male,Central,Fashion,In-Store,1,Young Trend Seekers
+CUST00193,29,51757.29,19,36.03,684.64,4,11,0.455,3,3,Male,West,Electronics,In-Store,1,Young Trend Seekers
+CUST00194,38,44591.2,4,14.19,56.77,195,1,0.366,1,3,Female,North,Beauty,Online,3,At-Risk / Occasional
+CUST00195,61,84043.56,25,125.01,3125.2,3,50,0.076,3,5,Male,North,Electronics,In-Store,0,High-Value Loyalists
+CUST00196,26,81860.43,13,128.32,1668.16,3,50,0.226,0,4,Male,East,Electronics,Mobile App,0,High-Value Loyalists
+CUST00197,31,70894.83,1,22.21,22.21,25,32,0.322,0,3,Male,East,Home & Garden,Mobile App,3,At-Risk / Occasional
+CUST00198,28,47305.08,14,36.82,515.52,20,6,0.321,0,4,Female,East,Electronics,Mobile App,1,Young Trend Seekers
+CUST00199,26,49740.44,18,11.13,200.29,9,21,0.397,0,2,Male,North,Beauty,Online,1,Young Trend Seekers
+CUST00200,18,71159.64,1,63.19,63.19,23,13,0.593,0,4,Female,Central,Sports,Online,1,Young Trend Seekers
+CUST00201,44,55710.05,1,50.62,50.62,52,1,0.403,0,3,Female,East,Sports,Online,3,At-Risk / Occasional
+CUST00202,59,57328.55,8,28.67,229.4,13,54,0.819,0,3,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST00203,53,48116.18,2,30.57,61.15,19,32,0.705,0,2,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST00204,29,32621.3,14,33.24,465.38,29,34,0.508,0,4,Female,South,Electronics,Mobile App,1,Young Trend Seekers
+CUST00205,43,59428.29,2,67.78,135.56,35,21,0.132,0,3,Male,West,Groceries,In-Store,3,At-Risk / Occasional
+CUST00206,23,41225.37,3,19.66,58.98,6,12,0.642,0,3,Female,West,Home & Garden,Online,1,Young Trend Seekers
+CUST00207,68,40481.5,4,28.07,112.3,1,48,0.713,0,5,Male,East,Books,In-Store,2,Budget Shoppers
+CUST00208,56,51385.69,3,71.28,213.85,22,12,0.264,0,2,Female,West,Home & Garden,Online,3,At-Risk / Occasional
+CUST00209,43,44423.65,6,30.23,181.39,57,42,0.67,0,3,Male,South,Groceries,Online,2,Budget Shoppers
+CUST00210,42,52635.85,3,37.47,112.4,41,55,0.864,0,3,Female,South,Groceries,In-Store,2,Budget Shoppers
+CUST00211,18,64243.88,1,47.62,47.62,172,6,0.232,0,4,Female,Central,Sports,In-Store,3,At-Risk / Occasional
+CUST00212,18,59541.72,2,34.25,68.49,10,39,0.775,0,4,Male,Central,Fashion,In-Store,2,Budget Shoppers
+CUST00213,24,74247.03,1,45.01,45.01,78,16,0.275,0,3,Female,West,Sports,Online,3,At-Risk / Occasional
+CUST00214,46,49083.28,10,24.86,248.56,55,45,0.724,1,3,Male,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST00215,58,22377.98,3,38.18,114.54,81,15,0.306,0,3,Female,West,Beauty,In-Store,3,At-Risk / Occasional
+CUST00216,62,46089.27,8,27.76,222.05,14,28,0.549,1,3,Male,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00217,39,126886.8,22,154.47,3398.37,3,81,0.224,3,3,Female,Central,Fashion,Online,0,High-Value Loyalists
+CUST00218,33,61467.45,1,51.29,51.29,90,53,0.284,0,2,Male,North,Sports,In-Store,3,At-Risk / Occasional
+CUST00219,27,89027.93,4,37.66,150.63,68,7,0.803,2,4,Male,Central,Sports,In-Store,1,Young Trend Seekers
+CUST00220,25,40298.93,19,38.82,737.53,14,3,0.5,3,5,Female,Central,Beauty,Mobile App,1,Young Trend Seekers
+CUST00221,50,41697.66,3,37.97,113.9,6,25,0.351,0,3,Female,Central,Electronics,In-Store,2,Budget Shoppers
+CUST00222,62,61491.66,1,45.36,45.36,85,28,0.38,0,2,Male,West,Home & Garden,Online,3,At-Risk / Occasional
+CUST00223,39,36510.89,4,27.37,109.47,65,21,0.622,0,2,Female,South,Groceries,In-Store,2,Budget Shoppers
+CUST00224,54,74030.85,29,147.44,4275.78,5,81,0.215,1,3,Male,East,Sports,Online,0,High-Value Loyalists
+CUST00225,36,40211.83,3,19.49,58.47,25,19,0.739,0,3,Male,South,Books,In-Store,2,Budget Shoppers
+CUST00226,50,37139.07,10,20.07,200.66,83,20,0.815,0,4,Female,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00227,25,39663.75,13,27.24,354.09,45,18,0.63,2,4,Female,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST00228,42,87815.34,30,132.81,3984.22,21,63,0.09,3,5,Female,North,Sports,Online,0,High-Value Loyalists
+CUST00229,20,18524.8,13,30.41,395.32,7,10,0.68,0,2,Male,East,Beauty,Mobile App,1,Young Trend Seekers
+CUST00230,55,41007.31,2,28.19,56.38,5,33,0.351,0,1,Male,North,Books,Online,2,Budget Shoppers
+CUST00231,52,58736.86,1,27.38,27.38,108,52,0.427,0,1,Male,East,Fashion,In-Store,3,At-Risk / Occasional
+CUST00232,18,45773.78,4,77.38,309.52,105,17,0.21,1,3,Female,West,Sports,Online,3,At-Risk / Occasional
+CUST00233,28,56515.03,3,36.34,109.03,19,34,0.321,0,2,Other,West,Beauty,Online,3,At-Risk / Occasional
+CUST00234,46,101503.59,22,136.04,2992.98,9,79,0.228,0,4,Female,Central,Electronics,Online,0,High-Value Loyalists
+CUST00235,56,40806.21,6,35.17,211.02,53,30,0.802,0,3,Male,West,Groceries,In-Store,2,Budget Shoppers
+CUST00236,18,65882.66,1,29.12,29.12,15,22,0.499,0,1,Female,West,Books,Online,3,At-Risk / Occasional
+CUST00237,49,67813.26,30,141.82,4254.59,1,71,0.166,2,3,Male,South,Fashion,Online,0,High-Value Loyalists
+CUST00238,22,49602.97,8,38.29,306.34,6,20,0.466,1,2,Male,West,Groceries,In-Store,1,Young Trend Seekers
+CUST00239,54,45157.45,1,10.66,10.66,5,20,0.433,0,4,Male,East,Fashion,In-Store,2,Budget Shoppers
+CUST00240,43,46717.84,6,22.81,136.86,32,35,0.82,0,5,Male,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00241,21,28854.86,10,36.95,369.52,1,7,0.566,1,4,Male,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST00242,28,45104.48,15,27.75,416.25,10,24,0.549,0,3,Female,South,Electronics,Mobile App,1,Young Trend Seekers
+CUST00243,23,52461.15,12,25.2,302.42,14,2,0.339,1,3,Female,East,Fashion,In-Store,1,Young Trend Seekers
+CUST00244,36,80192.91,18,94.51,1701.23,5,42,0.249,1,4,Female,North,Sports,Online,0,High-Value Loyalists
+CUST00245,39,48377.04,9,29.29,263.58,26,16,0.36,0,2,Male,East,Groceries,In-Store,3,At-Risk / Occasional
+CUST00246,27,40302.77,17,24.15,410.6,3,14,0.157,1,3,Male,North,Fashion,Online,1,Young Trend Seekers
+CUST00247,25,114639.16,21,177.04,3717.9,2,30,0.226,1,5,Female,Central,Fashion,Mobile App,0,High-Value Loyalists
+CUST00248,21,47078.22,20,31.97,639.4,5,25,0.456,2,2,Female,East,Electronics,In-Store,1,Young Trend Seekers
+CUST00249,19,48434.61,22,36.56,804.42,15,8,0.749,1,2,Female,Central,Fashion,Online,1,Young Trend Seekers
+CUST00250,25,12000.0,21,15.52,325.86,23,1,0.881,4,4,Female,North,Electronics,Mobile App,1,Young Trend Seekers
+CUST00251,46,126438.6,24,134.99,3239.83,1,76,0.308,2,4,Female,Central,Fashion,Mobile App,0,High-Value Loyalists
+CUST00252,35,74403.34,31,181.56,5628.28,11,70,0.093,0,5,Female,East,Electronics,Online,0,High-Value Loyalists
+CUST00253,25,29399.49,16,32.09,513.46,12,31,0.403,0,2,Female,East,Beauty,Mobile App,1,Young Trend Seekers
+CUST00254,43,141053.22,23,240.58,5533.28,9,76,0.283,2,5,Female,Central,Sports,Online,0,High-Value Loyalists
+CUST00255,49,36660.08,5,33.98,169.88,30,50,0.826,0,4,Female,East,Groceries,In-Store,2,Budget Shoppers
+CUST00256,47,79460.23,1,10.0,10.0,35,23,0.073,0,3,Male,South,Sports,In-Store,3,At-Risk / Occasional
+CUST00257,23,62731.51,25,31.43,785.64,1,10,0.681,1,4,Male,Central,Fashion,Mobile App,1,Young Trend Seekers
+CUST00258,44,44597.43,2,20.27,40.54,15,32,0.571,0,4,Male,West,Books,In-Store,2,Budget Shoppers
+CUST00259,23,30654.84,2,54.94,109.89,9,14,0.538,1,3,Female,West,Books,In-Store,1,Young Trend Seekers
+CUST00260,33,51520.33,3,26.58,79.73,55,16,0.528,0,3,Female,West,Groceries,Online,3,At-Risk / Occasional
+CUST00261,33,38861.83,1,53.46,53.46,13,1,0.03,0,2,Male,East,Fashion,In-Store,3,At-Risk / Occasional
+CUST00262,20,29183.52,15,21.37,320.61,8,15,0.677,0,2,Male,North,Beauty,Online,1,Young Trend Seekers
+CUST00263,31,32188.49,9,28.79,259.11,85,21,0.96,0,3,Female,South,Groceries,In-Store,2,Budget Shoppers
+CUST00264,30,39712.07,1,61.18,61.18,42,9,0.349,0,2,Female,West,Groceries,In-Store,3,At-Risk / Occasional
+CUST00265,22,35934.27,8,40.71,325.65,10,15,0.512,1,4,Male,East,Beauty,In-Store,1,Young Trend Seekers
+CUST00266,21,55001.78,2,64.29,128.58,38,26,0.576,1,3,Female,South,Beauty,Online,1,Young Trend Seekers
+CUST00267,43,36296.44,1,18.23,18.23,53,35,0.194,0,2,Male,North,Groceries,Mobile App,3,At-Risk / Occasional
+CUST00268,52,77372.44,1,51.59,51.59,89,22,0.604,0,1,Female,West,Fashion,In-Store,3,At-Risk / Occasional
+CUST00269,33,120435.92,27,113.31,3059.44,7,45,0.169,0,5,Male,North,Electronics,In-Store,0,High-Value Loyalists
+CUST00270,39,107605.33,30,50.0,1500.0,1,67,0.271,2,4,Female,South,Sports,In-Store,0,High-Value Loyalists
+CUST00271,23,21507.54,13,36.41,473.27,11,12,0.691,1,5,Female,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST00272,21,27048.03,23,28.12,646.71,28,13,0.816,2,2,Female,North,Beauty,Online,1,Young Trend Seekers
+CUST00273,27,26448.19,20,42.34,846.74,1,16,0.315,3,3,Female,West,Electronics,Mobile App,1,Young Trend Seekers
+CUST00274,25,50199.56,6,29.55,177.32,1,20,0.339,2,4,Other,East,Fashion,In-Store,1,Young Trend Seekers
+CUST00275,57,69235.66,1,51.23,51.23,206,4,0.208,0,3,Female,South,Electronics,Online,3,At-Risk / Occasional
+CUST00276,56,74841.21,1,34.0,34.0,70,30,0.005,0,3,Male,Central,Books,Mobile App,3,At-Risk / Occasional
+CUST00277,18,55332.75,1,47.44,47.44,37,10,0.571,0,3,Male,South,Beauty,In-Store,3,At-Risk / Occasional
+CUST00278,52,45217.49,2,29.95,59.91,92,23,0.495,1,4,Female,East,Books,In-Store,2,Budget Shoppers
+CUST00279,48,39996.96,4,42.45,169.79,53,21,0.487,0,3,Male,West,Toys,Online,2,Budget Shoppers
+CUST00280,54,41367.55,2,24.83,49.65,54,17,0.451,0,3,Male,North,Electronics,In-Store,2,Budget Shoppers
+CUST00281,25,12000.0,17,45.0,764.98,6,8,0.566,3,3,Male,North,Beauty,Mobile App,1,Young Trend Seekers
+CUST00282,48,152831.1,26,116.52,3029.5,4,69,0.266,3,3,Female,West,Sports,Online,0,High-Value Loyalists
+CUST00283,29,86407.32,17,178.12,3028.04,1,41,0.083,3,5,Female,North,Fashion,Mobile App,0,High-Value Loyalists
+CUST00284,35,63411.08,6,29.15,174.9,9,3,0.936,0,3,Female,South,Groceries,Mobile App,2,Budget Shoppers
+CUST00285,29,54019.88,2,39.8,79.6,163,4,0.457,0,3,Female,West,Groceries,In-Store,3,At-Risk / Occasional
+CUST00286,51,39981.11,5,28.89,144.45,22,47,0.748,2,3,Female,South,Groceries,In-Store,2,Budget Shoppers
+CUST00287,53,151873.08,12,174.83,2097.96,1,78,0.172,0,4,Female,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST00288,18,50702.27,2,10.0,20.0,41,14,0.031,0,3,Male,North,Books,In-Store,3,At-Risk / Occasional
+CUST00289,28,93102.53,14,142.14,1989.98,2,79,0.001,0,4,Male,Central,Sports,In-Store,0,High-Value Loyalists
+CUST00290,40,23654.97,1,32.88,32.88,46,42,0.307,0,4,Male,South,Books,Mobile App,2,Budget Shoppers
+CUST00291,48,21983.82,1,8.67,8.67,125,30,0.635,0,2,Female,Central,Groceries,Online,3,At-Risk / Occasional
+CUST00292,48,57896.8,3,28.97,86.9,77,16,0.554,0,2,Female,East,Groceries,In-Store,3,At-Risk / Occasional
+CUST00293,22,44520.69,21,43.79,919.64,6,1,0.991,3,4,Female,West,Beauty,Mobile App,1,Young Trend Seekers
+CUST00294,55,108758.29,22,99.75,2194.57,1,17,0.208,2,3,Female,East,Electronics,Mobile App,0,High-Value Loyalists
+CUST00295,60,31103.85,4,19.49,77.98,29,36,0.65,0,3,Male,North,Groceries,Mobile App,2,Budget Shoppers
+CUST00296,24,75513.48,1,10.0,10.0,7,31,0.629,0,3,Male,North,Sports,In-Store,2,Budget Shoppers
+CUST00297,19,75215.75,4,34.22,136.89,8,1,0.354,0,2,Female,West,Groceries,Online,3,At-Risk / Occasional
+CUST00298,60,46389.97,6,23.56,141.34,29,30,0.384,1,5,Male,West,Books,Mobile App,2,Budget Shoppers
+CUST00299,70,67570.99,2,30.69,61.37,222,20,0.157,0,3,Male,East,Toys,In-Store,3,At-Risk / Occasional
+CUST00300,55,42987.97,2,36.34,72.69,77,50,0.709,0,4,Female,South,Books,In-Store,2,Budget Shoppers
+CUST00301,57,54408.04,8,32.07,256.58,37,31,0.635,0,3,Female,West,Groceries,Online,2,Budget Shoppers
+CUST00302,33,73844.41,1,59.87,59.87,129,16,0.461,0,3,Female,South,Home & Garden,Online,3,At-Risk / Occasional
+CUST00303,26,71011.74,6,25.13,150.77,12,22,0.053,0,3,Female,West,Toys,Online,3,At-Risk / Occasional
+CUST00304,45,55740.25,1,69.09,69.09,365,23,0.036,0,2,Male,North,Groceries,In-Store,3,At-Risk / Occasional
+CUST00305,48,61325.65,4,27.18,108.73,53,32,0.445,0,4,Male,Central,Books,In-Store,2,Budget Shoppers
+CUST00306,27,49107.63,18,36.78,662.08,1,13,0.538,1,2,Female,North,Electronics,Mobile App,1,Young Trend Seekers
+CUST00307,18,47149.2,1,39.85,39.85,22,18,0.27,0,3,Other,East,Electronics,Online,3,At-Risk / Occasional
+CUST00308,46,70231.46,19,193.94,3684.77,1,74,0.369,0,4,Female,Central,Fashion,Online,0,High-Value Loyalists
+CUST00309,31,74044.4,4,42.51,170.06,99,16,0.38,0,3,Male,North,Home & Garden,In-Store,3,At-Risk / Occasional
+CUST00310,52,42145.55,8,33.03,264.24,31,24,0.477,1,4,Female,West,Home & Garden,Online,2,Budget Shoppers
+CUST00311,54,89261.37,23,157.7,3627.1,29,38,0.267,0,4,Male,South,Fashion,Mobile App,0,High-Value Loyalists
+CUST00312,36,57580.53,4,20.88,83.51,67,7,0.573,0,4,Female,Central,Groceries,Mobile App,2,Budget Shoppers
+CUST00313,55,42680.4,7,29.58,207.04,2,18,0.753,0,5,Male,South,Home & Garden,Online,2,Budget Shoppers
+CUST00314,32,42150.04,9,27.09,243.8,25,30,0.701,1,3,Female,North,Electronics,Mobile App,2,Budget Shoppers
+CUST00315,23,27890.81,19,43.66,829.63,4,13,0.725,0,3,Male,South,Electronics,In-Store,1,Young Trend Seekers
+CUST00316,18,30135.07,2,53.7,107.41,40,50,0.311,0,4,Male,West,Sports,Online,3,At-Risk / Occasional
+CUST00317,52,94041.89,18,86.57,1558.18,6,74,0.411,1,4,Male,East,Electronics,In-Store,0,High-Value Loyalists
+CUST00318,28,34942.53,7,21.03,147.18,32,50,0.472,0,2,Female,East,Groceries,In-Store,2,Budget Shoppers
+CUST00319,72,47060.25,7,16.0,111.97,12,24,0.659,1,4,Female,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST00320,46,41922.11,2,37.99,75.98,6,44,0.678,1,4,Male,North,Groceries,In-Store,2,Budget Shoppers
+CUST00321,40,54834.72,1,54.51,54.51,32,1,0.645,0,3,Male,North,Books,Online,2,Budget Shoppers
+CUST00322,33,49584.3,4,38.06,152.23,10,33,0.467,1,3,Male,East,Groceries,Online,2,Budget Shoppers
+CUST00323,41,54553.01,1,39.5,39.5,62,1,0.627,0,2,Male,South,Fashion,Mobile App,3,At-Risk / Occasional
+CUST00324,63,43779.74,6,28.5,170.97,2,16,0.665,0,3,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST00325,19,24492.95,19,18.85,358.06,4,13,0.519,0,5,Other,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00326,47,35682.79,2,61.85,123.69,211,20,0.32,1,2,Male,East,Home & Garden,Mobile App,3,At-Risk / Occasional
+CUST00327,32,31606.52,2,47.06,94.11,5,22,0.618,0,2,Other,East,Groceries,In-Store,2,Budget Shoppers
+CUST00328,38,40375.63,1,51.11,51.11,285,1,0.23,0,3,Female,South,Sports,Mobile App,3,At-Risk / Occasional
+CUST00329,36,94528.48,26,111.62,2902.19,3,72,0.268,2,4,Female,Central,Sports,Mobile App,0,High-Value Loyalists
+CUST00330,49,61185.93,5,29.1,145.49,22,51,0.825,0,3,Male,West,Home & Garden,Online,2,Budget Shoppers
+CUST00331,46,112190.72,22,112.1,2466.1,1,40,0.276,1,4,Female,West,Fashion,Mobile App,0,High-Value Loyalists
+CUST00332,68,66474.59,1,58.79,58.79,95,27,0.153,0,3,Male,Central,Toys,Online,3,At-Risk / Occasional
+CUST00333,64,36360.2,3,26.45,79.34,74,24,0.768,0,3,Male,North,Books,In-Store,2,Budget Shoppers
+CUST00334,55,22822.46,8,24.71,197.69,37,45,0.488,0,3,Female,North,Home & Garden,In-Store,2,Budget Shoppers
+CUST00335,56,46798.87,5,24.13,120.66,19,42,0.517,0,3,Male,North,Groceries,Online,2,Budget Shoppers
+CUST00336,49,48556.67,5,32.04,160.18,15,39,0.792,0,2,Female,West,Groceries,Online,2,Budget Shoppers
+CUST00337,25,24342.85,19,41.0,779.06,5,5,0.636,1,4,Female,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST00338,44,38458.56,2,69.48,138.96,27,16,0.74,0,1,Female,Central,Beauty,Online,2,Budget Shoppers
+CUST00339,56,90211.71,22,170.83,3758.28,5,60,0.095,1,4,Female,North,Sports,In-Store,0,High-Value Loyalists
+CUST00340,71,33495.12,6,33.15,198.92,2,21,0.674,1,3,Female,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00341,26,123961.69,14,148.98,2085.67,1,70,0.312,1,3,Female,North,Sports,Mobile App,0,High-Value Loyalists
+CUST00342,36,85490.8,22,159.77,3514.92,10,60,0.176,3,4,Female,Central,Fashion,Mobile App,0,High-Value Loyalists
+CUST00343,50,38270.49,7,20.51,143.56,101,12,0.652,0,2,Female,South,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00344,48,128575.93,22,145.23,3194.95,7,50,0.201,4,5,Female,East,Electronics,Online,0,High-Value Loyalists
+CUST00345,38,115857.47,27,62.81,1695.84,6,52,0.139,2,5,Male,North,Fashion,In-Store,0,High-Value Loyalists
+CUST00346,43,45248.87,3,34.48,103.44,9,40,0.421,1,3,Female,South,Fashion,Online,2,Budget Shoppers
+CUST00347,31,40654.19,2,39.16,78.32,26,15,0.559,0,3,Male,West,Toys,Online,2,Budget Shoppers
+CUST00348,36,38923.6,5,38.04,190.21,21,22,0.62,0,3,Female,West,Home & Garden,Online,2,Budget Shoppers
+CUST00349,46,105908.85,21,145.85,3062.82,6,82,0.276,1,3,Male,South,Electronics,In-Store,0,High-Value Loyalists
+CUST00350,73,45063.21,5,10.0,50.0,5,24,0.571,1,3,Female,West,Fashion,Mobile App,2,Budget Shoppers
+CUST00351,44,50288.35,2,12.53,25.05,19,13,0.31,1,2,Female,South,Groceries,Online,3,At-Risk / Occasional
+CUST00352,23,38516.49,15,25.11,376.67,21,11,0.809,2,5,Female,North,Fashion,Mobile App,1,Young Trend Seekers
+CUST00353,39,66207.94,3,66.89,200.66,203,52,0.142,0,4,Male,North,Fashion,In-Store,3,At-Risk / Occasional
+CUST00354,59,35913.0,4,28.86,115.43,20,25,0.466,0,5,Female,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00355,44,40050.74,4,38.32,153.27,15,30,0.545,1,3,Male,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00356,33,53088.51,2,52.58,105.15,54,32,0.635,0,3,Male,Central,Electronics,In-Store,2,Budget Shoppers
+CUST00357,61,54977.48,3,8.52,25.55,31,40,0.679,0,3,Other,South,Groceries,In-Store,2,Budget Shoppers
+CUST00358,29,24859.55,1,48.21,48.21,29,44,0.463,0,3,Female,North,Electronics,In-Store,2,Budget Shoppers
+CUST00359,18,23566.36,12,14.52,174.25,8,32,0.694,0,3,Male,West,Beauty,Online,1,Young Trend Seekers
+CUST00360,42,38819.37,1,26.11,26.11,72,27,0.744,0,3,Male,South,Fashion,Online,2,Budget Shoppers
+CUST00361,54,99473.44,27,129.25,3489.88,11,90,0.247,2,4,Male,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST00362,37,91681.44,1,43.47,43.47,365,23,0.469,0,3,Female,North,Home & Garden,Online,3,At-Risk / Occasional
+CUST00363,53,136443.11,20,50.0,1000.0,5,66,0.185,2,5,Female,West,Electronics,Online,0,High-Value Loyalists
+CUST00364,45,48761.9,6,27.58,165.48,83,7,0.622,2,3,Male,West,Sports,In-Store,2,Budget Shoppers
+CUST00365,27,29931.34,12,38.13,457.53,12,10,0.438,2,3,Other,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00366,32,89078.72,26,144.12,3747.03,6,13,0.116,1,5,Male,North,Fashion,In-Store,0,High-Value Loyalists
+CUST00367,24,19466.79,20,12.0,239.98,3,1,0.577,1,3,Female,North,Electronics,Mobile App,1,Young Trend Seekers
+CUST00368,26,48297.67,24,26.65,639.65,14,34,0.282,0,3,Male,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00369,30,53328.39,6,29.08,174.49,42,37,0.592,1,2,Male,East,Groceries,Mobile App,2,Budget Shoppers
+CUST00370,36,56609.31,1,28.75,28.75,39,14,0.939,0,3,Female,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00371,59,30991.75,6,19.09,114.52,13,20,0.485,2,3,Female,North,Groceries,Mobile App,2,Budget Shoppers
+CUST00372,54,32920.3,5,20.59,102.97,30,26,0.705,0,3,Male,East,Books,Online,2,Budget Shoppers
+CUST00373,41,43383.07,3,22.21,66.63,40,22,0.486,0,3,Male,South,Groceries,Online,2,Budget Shoppers
+CUST00374,46,68110.21,4,47.19,188.77,135,12,0.0,1,3,Female,Central,Electronics,In-Store,3,At-Risk / Occasional
+CUST00375,62,35772.62,8,28.39,227.16,33,40,0.564,1,3,Male,North,Home & Garden,In-Store,2,Budget Shoppers
+CUST00376,58,114371.12,23,188.08,4325.84,18,57,0.29,1,3,Female,West,Electronics,Mobile App,0,High-Value Loyalists
+CUST00377,23,35343.13,14,39.25,549.54,1,1,0.638,3,3,Male,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00378,46,34159.26,4,33.65,134.6,8,33,0.612,2,3,Female,South,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00379,20,12925.16,7,47.8,334.62,33,11,1.0,0,4,Other,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00380,34,109207.34,20,186.87,3737.45,2,89,0.118,1,4,Male,Central,Fashion,Mobile App,0,High-Value Loyalists
+CUST00381,56,54084.03,8,28.01,224.06,39,47,0.479,0,3,Male,East,Books,In-Store,2,Budget Shoppers
+CUST00382,26,39326.9,1,30.65,30.65,10,13,0.545,0,3,Male,South,Beauty,Online,2,Budget Shoppers
+CUST00383,35,38475.66,1,47.87,47.87,39,35,0.137,1,1,Male,East,Fashion,Mobile App,3,At-Risk / Occasional
+CUST00384,26,14932.23,10,15.88,158.82,31,10,0.519,0,3,Male,North,Beauty,In-Store,1,Young Trend Seekers
+CUST00385,49,38784.91,1,62.92,62.92,23,28,0.144,0,3,Female,East,Beauty,Online,3,At-Risk / Occasional
+CUST00386,30,26168.68,22,9.44,207.7,7,28,0.493,0,3,Female,South,Electronics,Mobile App,1,Young Trend Seekers
+CUST00387,64,142349.24,24,124.02,2976.51,1,62,0.416,1,3,Female,East,Sports,Online,0,High-Value Loyalists
+CUST00388,37,27227.58,8,29.54,236.35,8,44,0.824,0,3,Other,North,Groceries,Mobile App,2,Budget Shoppers
+CUST00389,46,73858.31,3,38.98,116.94,57,47,0.24,0,3,Male,West,Books,Online,3,At-Risk / Occasional
+CUST00390,20,41296.86,17,35.18,598.03,5,9,0.353,0,3,Other,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST00391,26,51340.38,14,34.77,486.72,23,8,0.709,0,3,Female,West,Beauty,Mobile App,1,Young Trend Seekers
+CUST00392,48,108077.82,18,97.43,1753.77,1,24,0.283,1,4,Male,East,Fashion,Online,0,High-Value Loyalists
+CUST00393,48,118300.45,21,158.06,3319.23,2,79,0.107,3,3,Female,East,Electronics,In-Store,0,High-Value Loyalists
+CUST00394,42,45087.1,1,47.52,47.52,40,34,0.238,0,3,Male,South,Toys,Mobile App,3,At-Risk / Occasional
+CUST00395,29,117156.81,24,232.99,5591.71,4,49,0.199,3,5,Male,Central,Sports,In-Store,0,High-Value Loyalists
+CUST00396,26,44344.5,8,46.91,375.27,31,8,0.633,3,4,Male,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00397,22,59691.08,10,43.68,436.8,7,20,0.316,2,3,Male,West,Beauty,Online,1,Young Trend Seekers
+CUST00398,41,98145.87,20,70.69,1413.7,4,98,0.29,2,5,Female,South,Sports,Mobile App,0,High-Value Loyalists
+CUST00399,56,43900.24,4,36.46,145.85,24,29,0.14,1,2,Other,East,Sports,Online,3,At-Risk / Occasional
+CUST00400,60,45128.42,1,59.79,59.79,129,9,0.499,0,3,Male,East,Beauty,In-Store,3,At-Risk / Occasional
+CUST00401,65,51119.14,2,11.46,22.92,47,26,0.839,1,3,Male,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST00402,23,36633.33,10,64.22,642.16,12,22,0.843,1,3,Female,Central,Fashion,Mobile App,1,Young Trend Seekers
+CUST00403,28,48446.09,4,54.83,219.32,34,15,0.446,1,2,Female,East,Sports,Mobile App,3,At-Risk / Occasional
+CUST00404,26,27673.16,15,29.41,441.1,9,3,0.254,1,2,Male,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00405,30,116263.57,18,125.85,2265.38,1,54,0.16,0,5,Female,South,Electronics,Online,0,High-Value Loyalists
+CUST00406,18,42031.62,21,18.82,395.2,7,7,0.778,0,3,Male,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00407,56,95251.44,21,182.48,3832.16,13,58,0.229,1,4,Female,East,Electronics,Online,0,High-Value Loyalists
+CUST00408,55,45469.23,5,29.9,149.51,26,15,0.666,1,2,Male,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST00409,19,42577.11,19,31.2,592.85,6,10,0.329,2,4,Male,West,Beauty,Mobile App,1,Young Trend Seekers
+CUST00410,37,47923.73,4,19.37,77.47,24,20,0.84,0,3,Female,South,Groceries,In-Store,2,Budget Shoppers
+CUST00411,57,122645.73,20,145.82,2916.34,5,45,0.207,1,5,Female,North,Fashion,Online,0,High-Value Loyalists
+CUST00412,26,44763.17,11,40.34,443.69,8,17,0.837,1,3,Male,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST00413,23,38817.47,20,42.54,850.83,3,3,0.447,2,3,Male,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST00414,35,66741.88,1,56.14,56.14,111,1,0.529,0,2,Male,West,Toys,Mobile App,3,At-Risk / Occasional
+CUST00415,33,32395.61,1,10.0,10.0,30,43,0.301,0,2,Male,East,Sports,Online,3,At-Risk / Occasional
+CUST00416,48,112683.91,15,204.12,3061.75,14,58,0.278,0,4,Male,North,Fashion,Mobile App,0,High-Value Loyalists
+CUST00417,39,74130.98,22,197.25,4339.41,7,54,0.0,1,3,Male,South,Fashion,Online,0,High-Value Loyalists
+CUST00418,25,139818.83,22,176.5,3883.11,2,68,0.245,3,4,Male,East,Electronics,Mobile App,0,High-Value Loyalists
+CUST00419,18,73319.14,2,62.22,124.43,168,11,0.609,0,2,Female,Central,Groceries,Online,3,At-Risk / Occasional
+CUST00420,18,60714.15,6,31.25,187.52,57,44,0.55,1,3,Female,West,Groceries,Online,1,Young Trend Seekers
+CUST00421,18,53298.75,1,62.96,62.96,6,41,0.066,0,3,Male,North,Beauty,In-Store,3,At-Risk / Occasional
+CUST00422,43,42667.91,2,19.61,39.23,282,47,0.446,0,3,Male,East,Books,Mobile App,3,At-Risk / Occasional
+CUST00423,58,27955.16,2,30.09,60.17,39,37,0.926,1,3,Female,Central,Groceries,Online,2,Budget Shoppers
+CUST00424,43,111180.14,26,77.05,2003.43,1,61,0.168,1,4,Male,East,Fashion,Online,0,High-Value Loyalists
+CUST00425,34,40012.33,7,25.53,178.74,120,17,0.87,2,3,Female,Central,Groceries,Mobile App,2,Budget Shoppers
+CUST00426,55,52356.64,2,69.33,138.66,5,1,0.692,0,2,Male,North,Books,Mobile App,2,Budget Shoppers
+CUST00427,56,110695.09,23,181.94,4184.53,7,58,0.303,3,4,Female,West,Fashion,Mobile App,0,High-Value Loyalists
+CUST00428,23,42485.38,8,32.24,257.94,6,15,0.35,2,3,Female,North,Beauty,Mobile App,1,Young Trend Seekers
+CUST00429,70,84441.52,21,77.28,1622.89,2,30,0.266,1,4,Male,South,Electronics,In-Store,0,High-Value Loyalists
+CUST00430,41,38037.52,2,25.13,50.25,52,34,0.727,0,4,Female,West,Groceries,In-Store,2,Budget Shoppers
+CUST00431,45,36636.29,1,41.21,41.21,60,29,0.695,0,4,Female,North,Home & Garden,Online,2,Budget Shoppers
+CUST00432,25,22420.87,5,29.62,148.12,167,25,0.447,0,3,Female,South,Fashion,In-Store,3,At-Risk / Occasional
+CUST00433,31,26227.07,1,47.06,47.06,345,37,0.448,0,4,Female,East,Home & Garden,In-Store,3,At-Risk / Occasional
+CUST00434,28,37069.66,5,23.04,115.2,18,21,0.766,0,2,Female,West,Groceries,Online,2,Budget Shoppers
+CUST00435,45,51013.77,4,21.06,84.23,10,38,0.699,0,2,Female,South,Groceries,In-Store,2,Budget Shoppers
+CUST00436,50,51274.59,5,18.09,90.47,83,38,0.312,0,3,Female,East,Electronics,Online,3,At-Risk / Occasional
+CUST00437,40,40476.06,11,28.8,316.82,44,64,0.778,2,4,Female,West,Books,In-Store,2,Budget Shoppers
+CUST00438,18,37453.98,19,43.89,833.94,19,10,0.28,2,3,Female,Central,Fashion,Online,1,Young Trend Seekers
+CUST00439,44,55165.63,2,41.12,82.23,30,2,0.3,0,2,Female,East,Books,Online,3,At-Risk / Occasional
+CUST00440,46,56457.61,8,23.71,189.69,46,53,0.722,1,3,Female,East,Groceries,Mobile App,2,Budget Shoppers
+CUST00441,44,33181.21,5,33.87,169.33,14,19,0.86,0,2,Female,Central,Home & Garden,Online,2,Budget Shoppers
+CUST00442,22,28579.88,17,8.0,136.0,2,14,0.541,2,5,Female,West,Fashion,In-Store,1,Young Trend Seekers
+CUST00443,37,78977.81,28,192.0,5375.99,7,79,0.301,2,3,Female,South,Electronics,In-Store,0,High-Value Loyalists
+CUST00444,54,107441.18,23,166.78,3835.92,2,82,0.293,1,4,Female,Central,Sports,Mobile App,0,High-Value Loyalists
+CUST00445,24,39481.67,18,26.24,472.38,17,13,0.337,1,3,Female,West,Fashion,Online,1,Young Trend Seekers
+CUST00446,26,32067.81,12,44.11,529.31,18,28,0.497,0,3,Male,East,Electronics,Online,1,Young Trend Seekers
+CUST00447,18,31339.8,17,31.73,539.42,24,13,0.773,0,4,Female,West,Beauty,In-Store,1,Young Trend Seekers
+CUST00448,31,69473.89,2,45.85,91.71,35,32,0.31,1,2,Male,East,Beauty,In-Store,3,At-Risk / Occasional
+CUST00449,35,111684.21,16,130.06,2080.93,29,64,0.349,2,4,Male,East,Electronics,In-Store,0,High-Value Loyalists
+CUST00450,51,31854.63,5,32.01,160.04,32,15,0.595,2,3,Female,South,Books,In-Store,2,Budget Shoppers
+CUST00451,32,42192.8,2,10.77,21.54,45,27,0.503,0,2,Female,West,Groceries,Online,3,At-Risk / Occasional
+CUST00452,28,34508.49,2,52.71,105.43,134,22,0.429,0,4,Male,East,Toys,In-Store,3,At-Risk / Occasional
+CUST00453,26,136180.97,18,180.86,3255.4,9,87,0.062,0,3,Male,South,Sports,In-Store,0,High-Value Loyalists
+CUST00454,20,55770.64,24,13.86,332.61,3,19,0.488,1,2,Male,Central,Fashion,Mobile App,1,Young Trend Seekers
+CUST00455,40,42741.76,5,18.9,94.51,4,25,1.0,0,3,Female,East,Books,In-Store,2,Budget Shoppers
+CUST00456,52,82012.47,26,102.37,2661.68,16,61,0.339,1,4,Female,South,Electronics,Online,0,High-Value Loyalists
+CUST00457,43,42430.85,8,42.29,338.3,23,16,0.292,0,4,Male,East,Books,Online,2,Budget Shoppers
+CUST00458,47,106986.28,28,113.9,3189.17,20,47,0.241,4,4,Male,South,Electronics,Online,0,High-Value Loyalists
+CUST00459,59,38701.1,7,29.4,205.77,47,35,0.799,2,4,Male,North,Groceries,In-Store,2,Budget Shoppers
+CUST00460,54,29944.6,6,37.49,224.95,54,1,0.878,0,2,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST00461,27,41537.56,5,41.59,207.96,27,12,0.611,1,2,Male,North,Groceries,Mobile App,1,Young Trend Seekers
+CUST00462,63,68831.76,2,67.16,134.32,26,41,0.667,1,3,Female,Central,Books,Online,2,Budget Shoppers
+CUST00463,73,70142.69,1,53.73,53.73,49,1,0.253,0,3,Male,North,Fashion,Online,3,At-Risk / Occasional
+CUST00464,45,74811.63,2,22.88,45.77,73,6,0.175,0,2,Male,North,Home & Garden,In-Store,3,At-Risk / Occasional
+CUST00465,22,30512.2,15,39.11,586.72,13,27,1.0,1,4,Female,East,Electronics,In-Store,1,Young Trend Seekers
+CUST00466,45,90259.41,25,168.77,4219.17,23,96,0.411,3,3,Male,Central,Fashion,Online,0,High-Value Loyalists
+CUST00467,40,118154.34,18,190.14,3422.56,3,94,0.04,1,4,Male,South,Sports,In-Store,0,High-Value Loyalists
+CUST00468,25,34628.88,23,28.9,664.71,20,22,0.339,1,3,Female,South,Electronics,Mobile App,1,Young Trend Seekers
+CUST00469,30,52439.26,2,28.39,56.78,5,48,0.654,0,2,Female,North,Groceries,Mobile App,2,Budget Shoppers
+CUST00470,26,42481.2,12,23.52,282.2,68,26,0.372,2,3,Female,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00471,47,41157.04,4,19.06,76.23,44,53,0.512,1,2,Female,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST00472,25,50137.82,17,46.68,793.51,52,19,1.0,2,3,Male,Central,Fashion,Mobile App,1,Young Trend Seekers
+CUST00473,47,26359.76,6,17.64,105.86,15,17,0.565,0,4,Female,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00474,26,21212.3,15,18.02,270.24,35,1,0.325,1,3,Male,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST00475,67,46999.4,3,52.49,157.47,174,36,0.337,1,2,Male,South,Books,Online,3,At-Risk / Occasional
+CUST00476,22,41772.06,21,47.39,995.26,8,14,0.426,2,3,Male,Central,Beauty,Mobile App,1,Young Trend Seekers
+CUST00477,40,47166.38,3,21.82,65.47,73,54,0.801,1,2,Male,West,Groceries,Mobile App,2,Budget Shoppers
+CUST00478,19,77681.97,1,77.77,77.77,8,30,0.119,0,3,Female,North,Groceries,Online,3,At-Risk / Occasional
+CUST00479,19,33311.53,21,28.58,600.2,1,8,0.392,1,4,Female,North,Beauty,Online,1,Young Trend Seekers
+CUST00480,40,42477.06,2,46.82,93.65,78,34,0.513,0,3,Other,Central,Sports,Mobile App,3,At-Risk / Occasional
+CUST00481,44,62343.95,1,24.56,24.56,31,1,0.218,0,3,Female,South,Groceries,In-Store,3,At-Risk / Occasional
+CUST00482,56,91675.82,1,52.84,52.84,196,11,0.302,0,1,Male,West,Toys,In-Store,3,At-Risk / Occasional
+CUST00483,44,93384.0,21,73.45,1542.46,10,54,0.103,3,5,Female,Central,Sports,In-Store,0,High-Value Loyalists
+CUST00484,32,66205.56,1,38.24,38.24,85,8,0.405,0,1,Male,Central,Toys,Online,3,At-Risk / Occasional
+CUST00485,31,15000.0,2,79.51,159.03,73,22,0.363,0,3,Female,South,Groceries,Online,3,At-Risk / Occasional
+CUST00486,22,28490.36,20,40.48,809.54,4,1,0.409,1,3,Other,East,Beauty,Online,1,Young Trend Seekers
+CUST00487,52,41732.93,5,41.08,205.39,32,44,0.598,0,2,Female,West,Home & Garden,Online,2,Budget Shoppers
+CUST00488,41,94652.74,33,195.61,6455.24,14,86,0.201,3,3,Male,West,Fashion,Online,0,High-Value Loyalists
+CUST00489,18,45647.5,14,31.88,446.37,26,23,0.376,2,3,Female,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST00490,25,17347.07,11,27.7,304.69,6,1,0.56,0,4,Male,North,Fashion,Mobile App,1,Young Trend Seekers
+CUST00491,42,122803.51,26,50.47,1312.18,14,56,0.203,4,4,Female,East,Fashion,Mobile App,0,High-Value Loyalists
+CUST00492,22,73403.85,2,40.32,80.64,224,1,0.626,0,1,Male,North,Home & Garden,Online,3,At-Risk / Occasional
+CUST00493,53,34358.06,5,25.0,124.98,23,29,0.395,1,3,Female,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00494,61,69840.87,12,40.83,489.93,17,3,0.778,0,5,Male,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST00495,68,112910.76,22,125.53,2761.65,19,63,0.0,2,3,Female,North,Electronics,Online,0,High-Value Loyalists
+CUST00496,52,90157.26,22,87.52,1925.5,1,51,0.406,1,4,Male,West,Sports,In-Store,0,High-Value Loyalists
+CUST00497,18,59216.39,2,40.71,81.42,21,1,0.246,0,2,Male,Central,Home & Garden,In-Store,3,At-Risk / Occasional
+CUST00498,40,45763.7,5,26.38,131.92,53,54,0.793,0,4,Female,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00499,19,48648.59,18,29.65,533.78,1,19,0.865,0,3,Female,South,Fashion,Online,1,Young Trend Seekers
+CUST00500,26,40076.19,18,44.98,809.66,1,9,0.386,1,4,Male,South,Beauty,Online,1,Young Trend Seekers
+CUST00501,35,80887.05,3,19.29,57.86,107,1,0.414,0,3,Male,Central,Beauty,Online,3,At-Risk / Occasional
+CUST00502,32,55222.57,2,49.2,98.4,48,31,0.331,0,3,Female,North,Groceries,In-Store,3,At-Risk / Occasional
+CUST00503,31,106739.19,27,171.88,4640.72,4,92,0.059,4,3,Male,East,Fashion,Mobile App,0,High-Value Loyalists
+CUST00504,18,54648.23,14,42.06,588.9,13,4,0.633,1,3,Female,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00505,46,72218.06,2,79.28,158.56,164,23,0.0,0,3,Female,Central,Books,Online,3,At-Risk / Occasional
+CUST00506,58,53963.14,4,33.01,132.03,6,54,0.696,1,2,Male,South,Groceries,In-Store,2,Budget Shoppers
+CUST00507,26,38817.45,12,15.1,181.18,2,5,0.259,1,4,Other,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00508,25,31544.3,18,19.81,356.55,12,10,0.511,0,4,Female,West,Electronics,In-Store,1,Young Trend Seekers
+CUST00509,25,31626.55,16,40.94,655.11,5,11,0.473,1,3,Male,East,Beauty,Online,1,Young Trend Seekers
+CUST00510,34,49240.42,1,31.99,31.99,57,14,0.557,0,3,Male,West,Sports,Online,3,At-Risk / Occasional
+CUST00511,19,72424.45,1,46.75,46.75,52,1,0.811,0,3,Female,South,Books,Online,3,At-Risk / Occasional
+CUST00512,50,121205.2,24,201.07,4825.74,5,98,0.151,1,5,Male,South,Fashion,Mobile App,0,High-Value Loyalists
+CUST00513,18,35134.97,16,33.7,539.19,6,18,0.228,1,4,Male,East,Electronics,Online,1,Young Trend Seekers
+CUST00514,18,31410.09,16,15.92,254.7,7,9,0.35,1,3,Female,North,Beauty,Mobile App,1,Young Trend Seekers
+CUST00515,57,56460.66,4,31.84,127.36,32,28,0.675,0,3,Male,Central,Groceries,Mobile App,2,Budget Shoppers
+CUST00516,51,48682.0,6,30.51,183.06,50,7,0.5,1,4,Male,West,Groceries,Mobile App,2,Budget Shoppers
+CUST00517,38,142485.52,22,97.49,2144.85,13,49,0.208,0,5,Female,South,Fashion,Online,0,High-Value Loyalists
+CUST00518,29,51393.61,19,38.11,724.06,5,25,0.496,1,2,Other,South,Fashion,Online,1,Young Trend Seekers
+CUST00519,27,47263.15,15,24.69,370.28,1,15,0.283,1,4,Female,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00520,67,47802.21,7,28.68,200.79,13,4,0.622,0,3,Male,East,Groceries,In-Store,2,Budget Shoppers
+CUST00521,55,69561.15,2,27.58,55.16,20,55,0.371,0,2,Female,West,Electronics,In-Store,2,Budget Shoppers
+CUST00522,37,108776.81,19,114.65,2178.27,17,56,0.193,1,5,Female,West,Electronics,In-Store,0,High-Value Loyalists
+CUST00523,21,21842.77,15,48.22,723.33,26,12,0.659,2,2,Male,North,Fashion,In-Store,1,Young Trend Seekers
+CUST00524,22,37617.93,12,44.99,539.9,11,11,0.488,1,5,Female,South,Fashion,In-Store,1,Young Trend Seekers
+CUST00525,23,65048.46,11,14.7,161.67,1,23,0.498,0,4,Male,Central,Electronics,Mobile App,1,Young Trend Seekers
+CUST00526,49,136431.57,18,160.44,2887.93,10,58,0.333,0,5,Male,North,Fashion,Online,0,High-Value Loyalists
+CUST00527,50,107996.13,26,157.4,4092.33,1,21,0.316,3,5,Female,Central,Sports,In-Store,0,High-Value Loyalists
+CUST00528,40,47098.61,8,23.77,190.15,27,41,0.681,1,2,Female,North,Groceries,Online,2,Budget Shoppers
+CUST00529,35,49615.07,3,28.34,85.01,72,69,0.737,0,3,Male,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00530,23,32049.39,20,40.68,813.58,10,23,0.569,6,3,Male,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST00531,30,34537.72,19,33.43,635.1,1,17,0.71,3,4,Female,Central,Beauty,Mobile App,1,Young Trend Seekers
+CUST00532,22,36418.9,20,37.62,752.36,4,16,0.495,1,4,Female,Central,Electronics,Online,1,Young Trend Seekers
+CUST00533,23,45980.7,17,27.59,469.05,24,27,0.452,0,2,Other,South,Beauty,In-Store,1,Young Trend Seekers
+CUST00534,54,54546.6,2,27.4,54.8,138,29,0.299,0,2,Female,South,Beauty,In-Store,3,At-Risk / Occasional
+CUST00535,46,60051.47,3,98.61,295.83,105,12,0.249,0,3,Male,West,Groceries,In-Store,3,At-Risk / Occasional
+CUST00536,18,25174.06,15,44.8,671.94,1,8,0.561,0,4,Female,East,Fashion,In-Store,1,Young Trend Seekers
+CUST00537,29,38680.04,19,28.24,536.47,55,11,0.572,1,4,Male,West,Beauty,Mobile App,1,Young Trend Seekers
+CUST00538,30,25229.38,9,29.9,269.12,28,26,0.562,0,3,Female,West,Home & Garden,In-Store,2,Budget Shoppers
+CUST00539,63,82786.73,19,121.04,2299.74,14,78,0.157,1,5,Female,East,Sports,In-Store,0,High-Value Loyalists
+CUST00540,63,32575.65,15,26.8,401.97,25,29,1.0,1,4,Male,East,Books,In-Store,2,Budget Shoppers
+CUST00541,28,31438.59,16,36.1,577.58,2,17,0.446,2,5,Female,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00542,25,70186.5,1,27.83,27.83,162,24,0.429,0,4,Female,West,Fashion,In-Store,3,At-Risk / Occasional
+CUST00543,35,51787.1,6,22.25,133.47,50,30,0.793,0,3,Female,North,Home & Garden,In-Store,2,Budget Shoppers
+CUST00544,68,40910.37,3,51.12,153.37,102,53,0.363,0,3,Male,East,Toys,In-Store,2,Budget Shoppers
+CUST00545,50,69365.64,1,16.52,16.52,36,54,0.426,0,2,Male,West,Sports,In-Store,2,Budget Shoppers
+CUST00546,44,108769.73,21,123.56,2594.69,1,74,0.0,0,3,Male,West,Fashion,In-Store,0,High-Value Loyalists
+CUST00547,42,49269.53,4,28.45,113.81,66,28,0.812,0,3,Male,East,Home & Garden,Online,2,Budget Shoppers
+CUST00548,40,51917.39,3,10.0,30.0,7,25,0.415,0,3,Female,West,Books,In-Store,2,Budget Shoppers
+CUST00549,47,47466.36,3,17.2,51.61,21,17,0.531,1,3,Male,East,Books,In-Store,2,Budget Shoppers
+CUST00550,46,61892.59,2,21.7,43.39,64,1,0.363,1,3,Female,South,Beauty,In-Store,3,At-Risk / Occasional
+CUST00551,39,60514.26,2,98.07,196.15,122,41,0.282,0,2,Male,North,Toys,In-Store,3,At-Risk / Occasional
+CUST00552,20,48749.55,17,40.12,681.98,3,13,0.639,3,4,Male,West,Electronics,In-Store,1,Young Trend Seekers
+CUST00553,58,15000.0,2,87.38,174.77,13,1,0.284,0,3,Female,Central,Toys,Online,2,Budget Shoppers
+CUST00554,31,83522.53,4,26.19,104.78,232,13,0.352,2,2,Female,South,Toys,Online,3,At-Risk / Occasional
+CUST00555,26,31154.37,21,29.9,627.8,6,13,0.451,1,4,Female,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00556,33,92503.31,25,180.29,4507.3,9,60,0.038,0,3,Female,West,Fashion,In-Store,0,High-Value Loyalists
+CUST00557,35,44781.36,8,26.11,208.88,37,32,0.709,1,2,Male,South,Groceries,In-Store,2,Budget Shoppers
+CUST00558,53,33138.3,4,41.05,164.2,9,19,0.78,3,4,Female,South,Home & Garden,Online,2,Budget Shoppers
+CUST00559,61,54557.84,1,38.51,38.51,99,29,0.309,0,3,Female,South,Beauty,In-Store,3,At-Risk / Occasional
+CUST00560,53,72307.0,1,26.45,26.45,139,43,0.607,0,2,Male,South,Home & Garden,Online,3,At-Risk / Occasional
+CUST00561,56,42359.51,1,65.21,65.21,6,11,0.349,0,2,Female,East,Beauty,In-Store,2,Budget Shoppers
+CUST00562,42,44878.3,8,28.49,227.89,1,58,0.467,1,3,Female,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00563,48,36932.94,5,20.75,103.76,4,31,0.876,0,4,Male,Central,Books,In-Store,2,Budget Shoppers
+CUST00564,39,50035.06,7,21.06,147.42,122,30,0.362,1,3,Male,North,Groceries,Mobile App,3,At-Risk / Occasional
+CUST00565,33,121579.31,27,209.9,5667.3,4,19,0.243,0,3,Male,North,Sports,Mobile App,0,High-Value Loyalists
+CUST00566,31,73866.1,1,37.32,37.32,65,6,0.671,0,3,Male,West,Beauty,In-Store,3,At-Risk / Occasional
+CUST00567,53,99272.35,18,94.67,1704.12,17,71,0.199,1,3,Female,South,Fashion,In-Store,0,High-Value Loyalists
+CUST00568,47,95685.94,21,90.8,1906.77,11,49,0.067,0,4,Female,South,Sports,In-Store,0,High-Value Loyalists
+CUST00569,20,24393.78,14,35.91,502.72,3,1,0.786,1,3,Female,Central,Beauty,In-Store,1,Young Trend Seekers
+CUST00570,44,82496.04,24,162.51,3900.34,2,57,0.32,3,5,Male,West,Fashion,Online,0,High-Value Loyalists
+CUST00571,50,40619.17,2,56.97,113.94,12,25,0.086,0,3,Male,East,Groceries,In-Store,3,At-Risk / Occasional
+CUST00572,55,60951.11,6,14.33,86.0,70,20,0.361,0,2,Other,South,Groceries,Mobile App,3,At-Risk / Occasional
+CUST00573,43,103304.97,12,147.8,1773.58,1,51,0.188,0,5,Male,West,Electronics,Online,0,High-Value Loyalists
+CUST00574,61,44420.72,3,79.89,239.66,232,31,0.225,0,4,Female,Central,Electronics,Online,3,At-Risk / Occasional
+CUST00575,25,27430.88,14,43.54,609.58,1,22,0.606,0,4,Female,North,Fashion,Online,1,Young Trend Seekers
+CUST00576,25,20064.37,27,51.72,1396.5,3,17,0.614,2,1,Female,Central,Fashion,Mobile App,1,Young Trend Seekers
+CUST00577,72,35755.76,5,35.05,175.24,46,38,0.75,0,3,Male,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00578,27,22456.9,18,31.23,562.1,12,9,0.876,2,4,Male,West,Fashion,In-Store,1,Young Trend Seekers
+CUST00579,38,127844.15,21,110.61,2322.88,3,79,0.266,5,5,Female,South,Electronics,In-Store,0,High-Value Loyalists
+CUST00580,56,35608.77,3,28.51,85.52,16,25,0.879,1,3,Male,Central,Groceries,Online,2,Budget Shoppers
+CUST00581,43,90376.09,29,52.22,1514.49,6,59,0.079,5,5,Female,West,Fashion,In-Store,0,High-Value Loyalists
+CUST00582,32,51940.14,22,53.16,1169.6,69,22,0.603,1,3,Male,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST00583,43,93032.24,17,173.35,2947.02,2,74,0.437,3,4,Male,South,Sports,Mobile App,0,High-Value Loyalists
+CUST00584,34,119391.99,16,126.25,2020.0,14,62,0.158,1,3,Female,East,Fashion,Online,0,High-Value Loyalists
+CUST00585,41,57386.76,2,72.84,145.68,84,14,0.456,1,2,Female,Central,Home & Garden,In-Store,3,At-Risk / Occasional
+CUST00586,26,39293.93,5,10.75,53.74,15,24,0.726,0,4,Male,Central,Home & Garden,Online,2,Budget Shoppers
+CUST00587,44,46777.8,7,27.07,189.47,5,33,0.72,0,3,Female,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00588,57,35105.07,5,29.14,145.68,1,21,0.5,0,3,Female,Central,Books,In-Store,2,Budget Shoppers
+CUST00589,47,39528.8,4,19.97,79.86,1,31,0.766,1,3,Female,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00590,36,62168.34,5,26.84,134.19,20,35,0.587,1,3,Female,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00591,69,42746.88,7,27.25,190.78,37,36,0.677,0,3,Female,East,Groceries,In-Store,2,Budget Shoppers
+CUST00592,29,83881.5,4,38.86,155.42,224,44,0.727,0,2,Male,South,Sports,Online,3,At-Risk / Occasional
+CUST00593,55,54822.47,6,37.34,224.03,54,53,0.825,2,3,Female,Central,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00594,53,99607.05,24,178.38,4281.07,1,46,0.253,3,5,Male,North,Electronics,In-Store,0,High-Value Loyalists
+CUST00595,31,41310.49,16,22.63,362.11,16,11,0.548,2,3,Male,Central,Fashion,In-Store,1,Young Trend Seekers
+CUST00596,25,175881.3,26,79.83,2075.58,4,64,0.328,3,4,Female,East,Sports,In-Store,0,High-Value Loyalists
+CUST00597,24,37733.02,3,41.52,124.55,74,1,0.436,1,2,Male,North,Toys,Online,3,At-Risk / Occasional
+CUST00598,34,49858.83,8,20.26,162.06,18,32,0.663,0,3,Male,South,Home & Garden,In-Store,2,Budget Shoppers
+CUST00599,46,56451.1,6,15.84,95.05,180,19,0.805,0,3,Female,South,Home & Garden,Mobile App,3,At-Risk / Occasional
+CUST00600,32,30934.26,6,31.47,188.81,67,18,0.93,0,3,Male,North,Groceries,Online,2,Budget Shoppers
+CUST00601,51,38685.14,6,20.53,123.21,2,28,0.419,2,3,Female,West,Home & Garden,In-Store,2,Budget Shoppers
+CUST00602,54,34670.37,9,26.46,238.1,57,45,0.558,0,3,Female,North,Home & Garden,Online,2,Budget Shoppers
+CUST00603,41,45751.86,9,23.67,213.01,53,28,0.654,1,4,Female,North,Books,Mobile App,2,Budget Shoppers
+CUST00604,39,37817.52,5,33.03,165.17,35,34,0.735,0,3,Female,South,Home & Garden,In-Store,2,Budget Shoppers
+CUST00605,53,53807.48,7,31.55,220.87,1,18,0.766,1,4,Male,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00606,58,95478.75,19,95.16,1808.12,1,25,0.15,1,5,Female,South,Fashion,Mobile App,0,High-Value Loyalists
+CUST00607,64,40309.47,5,36.75,183.73,105,13,0.749,0,3,Female,South,Books,Online,2,Budget Shoppers
+CUST00608,48,150638.06,18,140.62,2531.09,2,27,0.195,0,4,Male,West,Electronics,Mobile App,0,High-Value Loyalists
+CUST00609,48,47545.77,1,14.49,14.49,365,64,0.791,0,3,Male,West,Groceries,In-Store,3,At-Risk / Occasional
+CUST00610,26,43702.71,1,92.77,92.77,43,45,0.569,0,2,Male,Central,Fashion,In-Store,3,At-Risk / Occasional
+CUST00611,57,49079.79,1,29.96,29.96,10,49,0.699,0,2,Male,South,Groceries,In-Store,2,Budget Shoppers
+CUST00612,60,78011.83,2,10.0,20.0,365,9,0.315,1,3,Male,North,Groceries,In-Store,3,At-Risk / Occasional
+CUST00613,25,67636.55,4,83.82,335.3,10,21,0.087,0,3,Female,East,Books,Online,3,At-Risk / Occasional
+CUST00614,38,35609.86,7,35.96,251.73,38,44,0.452,1,4,Male,North,Home & Garden,In-Store,2,Budget Shoppers
+CUST00615,18,64300.83,19,23.41,444.83,4,23,0.693,0,4,Male,East,Beauty,Online,1,Young Trend Seekers
+CUST00616,22,30398.68,16,40.58,649.23,5,6,0.595,0,4,Male,Central,Fashion,Mobile App,1,Young Trend Seekers
+CUST00617,38,34805.52,11,18.96,208.61,19,60,0.369,0,3,Female,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00618,52,55911.06,6,24.84,149.04,2,34,0.707,0,3,Other,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00619,21,32919.67,15,11.8,177.05,8,25,0.502,2,2,Male,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00620,24,56091.97,4,41.2,164.82,174,4,0.52,0,3,Male,West,Groceries,Online,3,At-Risk / Occasional
+CUST00621,29,45612.9,5,12.57,62.84,67,21,0.773,0,5,Male,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST00622,43,54202.25,3,32.47,97.41,90,23,0.624,0,4,Male,Central,Groceries,Online,2,Budget Shoppers
+CUST00623,44,109516.08,19,102.26,1942.88,1,87,0.193,3,4,Male,Central,Fashion,In-Store,0,High-Value Loyalists
+CUST00624,39,96146.65,26,100.5,2612.92,7,28,0.211,3,4,Male,Central,Fashion,Mobile App,0,High-Value Loyalists
+CUST00625,18,80391.84,3,62.94,188.82,110,28,0.317,0,3,Male,South,Groceries,Mobile App,3,At-Risk / Occasional
+CUST00626,35,109598.49,18,171.25,3082.58,4,61,0.185,0,5,Male,South,Sports,Mobile App,0,High-Value Loyalists
+CUST00627,35,108812.65,27,133.56,3606.1,6,46,0.132,1,4,Male,East,Fashion,In-Store,0,High-Value Loyalists
+CUST00628,36,52305.22,2,55.77,111.54,55,1,0.695,0,3,Other,North,Electronics,Online,2,Budget Shoppers
+CUST00629,52,61882.17,6,16.83,100.99,8,35,0.668,1,3,Male,East,Groceries,Mobile App,2,Budget Shoppers
+CUST00630,43,24205.98,6,42.78,256.7,1,47,0.83,0,2,Male,Central,Home & Garden,Online,2,Budget Shoppers
+CUST00631,20,62951.69,2,24.86,49.71,27,51,0.564,0,2,Male,East,Beauty,In-Store,3,At-Risk / Occasional
+CUST00632,25,31114.16,13,48.9,635.74,23,12,0.407,1,4,Male,East,Beauty,Online,1,Young Trend Seekers
+CUST00633,44,29060.17,1,55.73,55.73,34,41,0.489,0,2,Female,West,Groceries,In-Store,2,Budget Shoppers
+CUST00634,42,74278.37,2,88.13,176.25,5,13,0.311,0,2,Male,East,Sports,Online,3,At-Risk / Occasional
+CUST00635,66,42930.34,8,14.27,114.17,3,23,0.668,0,3,Male,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00636,38,154215.06,15,144.97,2174.61,4,79,0.219,3,4,Male,West,Fashion,Online,0,High-Value Loyalists
+CUST00637,29,41238.6,1,61.16,61.16,314,19,0.137,0,3,Male,North,Sports,Online,3,At-Risk / Occasional
+CUST00638,26,51020.44,9,23.61,212.5,2,26,0.69,1,2,Female,West,Home & Garden,Online,1,Young Trend Seekers
+CUST00639,56,28839.94,7,26.71,186.95,122,26,0.869,0,4,Male,North,Home & Garden,In-Store,2,Budget Shoppers
+CUST00640,55,154233.9,21,147.49,3097.23,3,54,0.189,4,4,Female,South,Fashion,Online,0,High-Value Loyalists
+CUST00641,35,52975.44,8,35.9,287.21,50,18,0.63,2,3,Female,South,Groceries,In-Store,1,Young Trend Seekers
+CUST00642,41,143074.7,21,114.18,2397.83,2,39,0.173,2,3,Male,North,Sports,In-Store,0,High-Value Loyalists
+CUST00643,39,22046.53,2,26.84,53.67,30,25,0.851,0,4,Female,South,Groceries,Online,2,Budget Shoppers
+CUST00644,51,115335.1,21,179.0,3759.03,23,51,0.116,3,4,Female,South,Electronics,In-Store,0,High-Value Loyalists
+CUST00645,38,31513.18,7,24.12,168.86,32,32,0.742,0,3,Female,East,Groceries,Online,2,Budget Shoppers
+CUST00646,18,27710.69,22,33.78,743.22,11,10,0.491,1,4,Male,South,Beauty,In-Store,1,Young Trend Seekers
+CUST00647,33,83573.21,4,47.64,190.54,40,22,0.178,0,3,Female,Central,Books,In-Store,3,At-Risk / Occasional
+CUST00648,43,21279.27,1,80.33,80.33,11,33,0.435,0,2,Female,West,Beauty,Online,2,Budget Shoppers
+CUST00649,40,37789.56,3,42.7,128.09,102,1,0.369,0,4,Male,East,Electronics,In-Store,3,At-Risk / Occasional
+CUST00650,40,91349.24,20,115.56,2311.27,5,52,0.236,1,3,Male,West,Electronics,Online,0,High-Value Loyalists
+CUST00651,65,40258.36,7,32.48,227.34,53,47,0.994,1,2,Female,West,Groceries,In-Store,2,Budget Shoppers
+CUST00652,20,73246.01,2,34.06,68.11,28,1,0.32,0,3,Female,East,Beauty,Online,3,At-Risk / Occasional
+CUST00653,46,65248.73,1,76.12,76.12,164,24,0.506,0,2,Male,East,Groceries,Mobile App,3,At-Risk / Occasional
+CUST00654,31,69796.76,2,38.6,77.2,56,45,0.392,0,3,Male,Central,Beauty,Mobile App,3,At-Risk / Occasional
+CUST00655,39,104093.17,23,119.47,2747.87,8,49,0.186,3,4,Male,Central,Electronics,In-Store,0,High-Value Loyalists
+CUST00656,61,55983.11,6,23.54,141.26,26,53,0.845,1,2,Male,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00657,50,82291.63,29,168.96,4899.81,1,77,0.097,1,4,Male,East,Sports,In-Store,0,High-Value Loyalists
+CUST00658,34,99901.66,23,182.96,4207.98,18,52,0.22,3,4,Male,Central,Fashion,Mobile App,0,High-Value Loyalists
+CUST00659,18,83392.68,1,79.94,79.94,73,1,0.361,0,1,Female,West,Groceries,Mobile App,3,At-Risk / Occasional
+CUST00660,51,59093.29,3,27.2,81.61,216,2,0.27,0,3,Male,North,Beauty,In-Store,3,At-Risk / Occasional
+CUST00661,58,114818.93,21,138.95,2918.04,7,48,0.178,2,4,Male,West,Electronics,In-Store,0,High-Value Loyalists
+CUST00662,26,27194.5,20,25.05,500.97,17,28,0.347,0,2,Female,South,Fashion,In-Store,1,Young Trend Seekers
+CUST00663,32,23032.32,1,73.67,73.67,27,23,0.728,0,3,Male,West,Toys,Online,2,Budget Shoppers
+CUST00664,47,30879.98,7,24.49,171.41,20,25,0.653,1,3,Male,East,Groceries,Online,2,Budget Shoppers
+CUST00665,70,28494.65,8,14.36,114.9,49,28,0.595,0,3,Female,East,Books,In-Store,2,Budget Shoppers
+CUST00666,44,39183.64,4,34.94,139.76,2,44,0.576,1,3,Male,North,Books,In-Store,2,Budget Shoppers
+CUST00667,44,38428.45,10,40.2,401.97,16,35,0.856,0,5,Female,West,Groceries,In-Store,2,Budget Shoppers
+CUST00668,45,39948.86,5,20.88,104.42,33,23,0.977,0,2,Male,West,Home & Garden,Online,2,Budget Shoppers
+CUST00669,52,38640.56,7,24.47,171.3,4,24,0.693,0,3,Male,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00670,33,94074.72,21,136.93,2875.43,8,86,0.377,0,3,Male,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST00671,58,43862.63,4,29.4,117.61,180,1,0.518,1,3,Male,North,Groceries,Online,3,At-Risk / Occasional
+CUST00672,25,32504.98,17,18.21,309.58,12,32,0.685,3,3,Female,South,Electronics,Online,1,Young Trend Seekers
+CUST00673,55,42492.14,6,17.58,105.49,29,11,0.602,0,3,Male,Central,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00674,45,15000.0,2,80.4,160.8,112,36,0.341,0,3,Other,East,Fashion,In-Store,3,At-Risk / Occasional
+CUST00675,47,144718.9,17,149.56,2542.46,5,87,0.072,1,3,Male,East,Sports,In-Store,0,High-Value Loyalists
+CUST00676,23,59978.34,15,28.7,430.43,6,23,0.334,1,3,Female,North,Electronics,Mobile App,1,Young Trend Seekers
+CUST00677,63,44763.03,10,36.74,367.41,8,30,0.8,0,3,Female,East,Groceries,Online,2,Budget Shoppers
+CUST00678,48,67781.98,28,109.04,3053.18,2,61,0.336,3,3,Male,West,Electronics,Mobile App,0,High-Value Loyalists
+CUST00679,19,45693.24,18,36.93,664.7,1,1,0.479,1,3,Female,North,Fashion,Mobile App,1,Young Trend Seekers
+CUST00680,22,20029.41,19,32.24,612.56,39,1,0.438,0,4,Male,North,Electronics,Mobile App,1,Young Trend Seekers
+CUST00681,25,35331.73,11,45.86,504.47,1,12,0.702,1,3,Female,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00682,55,40592.32,5,26.81,134.07,1,37,0.74,0,2,Male,Central,Home & Garden,Online,2,Budget Shoppers
+CUST00683,36,34549.26,9,18.84,169.55,22,42,0.543,1,2,Male,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00684,33,77200.16,5,51.9,259.49,65,20,0.369,1,3,Female,South,Home & Garden,Online,3,At-Risk / Occasional
+CUST00685,18,30428.54,17,28.61,486.32,18,11,0.515,3,3,Male,Central,Fashion,In-Store,1,Young Trend Seekers
+CUST00686,40,31344.41,6,43.76,262.53,108,1,0.44,2,3,Male,West,Groceries,Online,3,At-Risk / Occasional
+CUST00687,42,60959.23,1,29.6,29.6,341,32,0.37,0,2,Female,Central,Fashion,In-Store,3,At-Risk / Occasional
+CUST00688,32,56117.99,5,43.85,219.26,25,6,0.775,1,2,Female,South,Books,In-Store,2,Budget Shoppers
+CUST00689,18,55462.0,2,67.95,135.9,5,1,0.58,0,2,Male,Central,Beauty,Mobile App,3,At-Risk / Occasional
+CUST00690,26,19472.54,8,23.4,187.23,19,43,1.0,1,2,Male,North,Groceries,In-Store,2,Budget Shoppers
+CUST00691,32,106999.76,19,90.82,1725.58,6,51,0.232,2,5,Female,North,Fashion,Online,0,High-Value Loyalists
+CUST00692,37,134970.93,19,137.47,2611.89,5,58,0.156,1,4,Male,East,Sports,Online,0,High-Value Loyalists
+CUST00693,55,48114.48,1,54.35,54.35,39,7,0.224,0,3,Male,South,Books,Online,3,At-Risk / Occasional
+CUST00694,55,31322.25,5,16.23,81.13,7,28,0.543,0,4,Male,North,Groceries,In-Store,2,Budget Shoppers
+CUST00695,67,36066.08,2,37.94,75.88,1,26,0.773,1,3,Male,South,Groceries,In-Store,2,Budget Shoppers
+CUST00696,33,55290.65,1,29.82,29.82,90,1,0.328,0,2,Male,East,Books,Online,3,At-Risk / Occasional
+CUST00697,37,99852.21,20,163.5,3269.91,3,45,0.322,2,5,Male,East,Fashion,Online,0,High-Value Loyalists
+CUST00698,37,59777.61,2,67.38,134.75,242,15,0.189,0,3,Male,East,Groceries,Online,3,At-Risk / Occasional
+CUST00699,65,39662.55,5,23.53,117.65,36,32,0.667,0,4,Female,South,Books,In-Store,2,Budget Shoppers
+CUST00700,54,107709.83,24,171.11,4106.63,21,61,0.006,0,4,Female,West,Fashion,Online,0,High-Value Loyalists
+CUST00701,22,51689.59,3,55.47,166.4,38,23,0.554,0,1,Female,South,Home & Garden,Mobile App,3,At-Risk / Occasional
+CUST00702,61,53935.17,6,22.88,137.3,1,9,0.733,1,4,Female,West,Groceries,In-Store,2,Budget Shoppers
+CUST00703,48,97117.51,24,98.43,2362.2,3,42,0.07,0,3,Male,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST00704,62,57997.9,9,44.73,402.58,2,35,0.361,0,3,Male,South,Books,In-Store,2,Budget Shoppers
+CUST00705,45,37685.81,3,19.29,57.87,1,72,0.518,0,4,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST00706,22,47311.13,25,40.17,1004.16,3,23,0.583,4,3,Male,North,Beauty,Mobile App,1,Young Trend Seekers
+CUST00707,47,95657.19,26,110.36,2869.43,3,77,0.218,1,3,Male,East,Electronics,In-Store,0,High-Value Loyalists
+CUST00708,21,54518.87,19,39.81,756.39,25,27,0.83,0,3,Female,West,Beauty,Mobile App,1,Young Trend Seekers
+CUST00709,62,39430.13,1,38.4,38.4,37,19,0.837,0,5,Female,West,Books,In-Store,2,Budget Shoppers
+CUST00710,39,15000.0,2,56.1,112.2,5,9,0.212,0,3,Male,East,Groceries,Online,3,At-Risk / Occasional
+CUST00711,34,59228.71,1,27.99,27.99,236,46,0.351,0,2,Male,North,Toys,Online,3,At-Risk / Occasional
+CUST00712,59,59414.25,2,12.72,25.43,236,63,0.225,1,2,Male,South,Books,Online,3,At-Risk / Occasional
+CUST00713,53,108556.6,27,106.7,2880.93,19,61,0.034,2,3,Female,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST00714,27,90761.28,11,171.01,1881.11,10,66,0.172,2,5,Male,North,Electronics,Online,0,High-Value Loyalists
+CUST00715,29,96993.25,26,110.5,2873.07,3,60,0.317,1,5,Female,South,Fashion,Online,0,High-Value Loyalists
+CUST00716,23,45422.22,19,43.18,820.36,15,1,0.377,0,4,Female,West,Electronics,Online,1,Young Trend Seekers
+CUST00717,26,29498.14,13,26.78,348.13,37,1,0.527,0,4,Male,West,Fashion,In-Store,1,Young Trend Seekers
+CUST00718,27,61130.34,12,34.38,412.54,4,23,0.689,1,3,Male,South,Fashion,Online,1,Young Trend Seekers
+CUST00719,42,44719.35,2,12.84,25.69,65,27,0.549,0,5,Male,West,Groceries,Mobile App,2,Budget Shoppers
+CUST00720,56,77527.52,4,10.0,40.0,93,48,0.802,0,3,Female,West,Beauty,In-Store,2,Budget Shoppers
+CUST00721,21,60827.4,13,56.73,737.47,53,27,0.301,0,2,Female,East,Fashion,Online,3,At-Risk / Occasional
+CUST00722,75,54241.07,9,23.58,212.22,75,32,0.987,0,3,Male,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00723,51,42395.1,5,22.29,111.47,102,33,0.554,0,3,Male,Central,Groceries,Mobile App,2,Budget Shoppers
+CUST00724,60,63508.13,3,38.67,116.0,33,31,0.255,0,2,Male,South,Home & Garden,Mobile App,3,At-Risk / Occasional
+CUST00725,20,48612.11,2,61.69,123.38,9,45,0.421,1,3,Male,South,Groceries,Online,1,Young Trend Seekers
+CUST00726,22,42187.21,21,34.8,730.82,15,7,0.494,0,3,Male,West,Electronics,Online,1,Young Trend Seekers
+CUST00727,36,34459.41,5,25.47,127.37,23,29,0.692,0,4,Male,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00728,52,56378.03,1,28.17,28.17,10,1,0.204,0,3,Other,South,Home & Garden,Online,3,At-Risk / Occasional
+CUST00729,43,55310.25,8,18.04,144.31,10,37,0.864,0,3,Female,West,Groceries,In-Store,2,Budget Shoppers
+CUST00730,29,35809.94,3,20.59,61.76,31,21,0.572,1,2,Male,West,Groceries,Online,2,Budget Shoppers
+CUST00731,66,27479.95,3,8.96,26.88,5,18,0.944,0,2,Male,East,Books,Online,2,Budget Shoppers
+CUST00732,22,37146.07,10,24.68,246.78,7,19,0.325,0,4,Female,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST00733,21,36140.05,3,32.1,96.3,86,34,0.697,0,3,Male,East,Books,Online,3,At-Risk / Occasional
+CUST00734,34,62653.46,1,45.46,45.46,98,1,0.539,0,3,Male,North,Toys,Online,3,At-Risk / Occasional
+CUST00735,48,114494.84,19,213.23,4051.37,7,69,0.165,1,4,Male,Central,Sports,Mobile App,0,High-Value Loyalists
+CUST00736,32,70941.9,18,39.81,716.61,3,30,0.872,0,4,Female,Central,Fashion,In-Store,1,Young Trend Seekers
+CUST00737,43,82511.93,17,69.93,1188.81,17,82,0.082,0,4,Male,North,Fashion,Mobile App,0,High-Value Loyalists
+CUST00738,22,34809.74,12,45.27,543.19,34,1,0.515,2,3,Female,East,Beauty,Mobile App,1,Young Trend Seekers
+CUST00739,27,106991.15,23,146.58,3371.39,1,64,0.033,0,5,Female,South,Electronics,In-Store,0,High-Value Loyalists
+CUST00740,43,129492.98,25,174.75,4368.65,1,96,0.135,2,3,Female,West,Electronics,Mobile App,0,High-Value Loyalists
+CUST00741,56,93239.63,13,132.54,1722.98,12,103,0.18,3,5,Male,East,Fashion,Mobile App,0,High-Value Loyalists
+CUST00742,50,126672.25,20,211.62,4232.37,24,94,0.384,2,4,Female,East,Fashion,Online,0,High-Value Loyalists
+CUST00743,57,32268.79,1,70.42,70.42,197,14,0.489,0,2,Male,Central,Groceries,In-Store,3,At-Risk / Occasional
+CUST00744,43,36415.63,1,33.94,33.94,7,1,0.711,0,2,Female,Central,Electronics,In-Store,2,Budget Shoppers
+CUST00745,36,45703.69,7,15.39,107.75,26,24,0.801,1,3,Female,North,Home & Garden,In-Store,2,Budget Shoppers
+CUST00746,22,28723.54,17,24.77,421.13,9,8,0.38,1,4,Male,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST00747,34,97454.93,22,60.09,1322.03,3,32,0.167,2,4,Male,Central,Electronics,Online,0,High-Value Loyalists
+CUST00748,29,38338.44,2,41.92,83.83,56,21,0.346,0,3,Female,Central,Books,In-Store,3,At-Risk / Occasional
+CUST00749,18,35430.5,16,10.08,161.3,4,15,0.456,2,4,Female,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST00750,18,60877.15,3,44.33,132.99,234,28,0.447,0,2,Male,East,Fashion,Mobile App,3,At-Risk / Occasional
+CUST00751,62,51287.48,6,20.92,125.49,4,24,0.63,0,3,Male,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00752,23,39608.29,15,24.2,362.95,39,21,0.548,0,3,Male,East,Beauty,Online,1,Young Trend Seekers
+CUST00753,49,71632.2,5,32.57,162.85,180,58,0.528,0,2,Male,East,Groceries,Online,3,At-Risk / Occasional
+CUST00754,61,102832.58,22,191.35,4209.73,1,117,0.23,4,4,Male,North,Electronics,Mobile App,0,High-Value Loyalists
+CUST00755,48,26078.21,7,24.38,170.69,180,52,0.895,0,3,Male,West,Books,In-Store,2,Budget Shoppers
+CUST00756,64,60938.04,1,36.22,36.22,54,38,0.384,0,2,Female,North,Sports,Online,2,Budget Shoppers
+CUST00757,37,30388.12,5,82.4,412.01,6,11,0.475,0,3,Male,South,Beauty,Online,2,Budget Shoppers
+CUST00758,40,27535.33,2,24.87,49.74,50,16,0.385,0,1,Female,South,Toys,Mobile App,3,At-Risk / Occasional
+CUST00759,25,53436.78,16,33.89,542.27,1,17,0.787,0,3,Female,East,Electronics,Mobile App,1,Young Trend Seekers
+CUST00760,31,71170.66,4,47.07,188.28,138,22,0.292,1,3,Female,West,Toys,Mobile App,3,At-Risk / Occasional
+CUST00761,59,52646.6,8,22.9,183.21,30,41,0.642,1,3,Male,North,Groceries,In-Store,2,Budget Shoppers
+CUST00762,41,89050.29,28,145.71,4079.81,20,92,0.234,3,4,Female,North,Fashion,Online,0,High-Value Loyalists
+CUST00763,30,44229.97,9,24.83,223.47,4,33,0.73,0,3,Male,North,Groceries,In-Store,2,Budget Shoppers
+CUST00764,40,81377.74,1,47.24,47.24,147,11,0.754,0,1,Female,Central,Beauty,Online,3,At-Risk / Occasional
+CUST00765,64,48852.14,7,34.06,238.42,1,44,0.571,1,3,Male,West,Books,In-Store,2,Budget Shoppers
+CUST00766,18,38652.09,3,41.97,125.9,28,42,0.402,0,2,Female,West,Electronics,Online,3,At-Risk / Occasional
+CUST00767,42,45552.96,4,57.1,228.41,79,14,0.461,0,3,Female,West,Home & Garden,Mobile App,3,At-Risk / Occasional
+CUST00768,27,38598.19,12,28.67,344.02,7,14,0.518,2,3,Male,Central,Fashion,Online,1,Young Trend Seekers
+CUST00769,33,119232.43,20,60.28,1205.65,4,45,0.24,3,4,Male,North,Electronics,In-Store,0,High-Value Loyalists
+CUST00770,22,42451.67,8,27.46,219.68,2,18,0.356,0,2,Female,West,Beauty,In-Store,1,Young Trend Seekers
+CUST00771,45,53486.38,5,16.92,84.59,70,38,0.521,0,2,Female,South,Home & Garden,In-Store,2,Budget Shoppers
+CUST00772,29,61836.93,18,36.19,651.41,28,8,0.435,3,2,Male,North,Beauty,In-Store,1,Young Trend Seekers
+CUST00773,54,54845.76,5,38.91,194.53,75,21,0.547,0,4,Female,North,Groceries,Online,2,Budget Shoppers
+CUST00774,36,104532.12,21,114.92,2413.28,32,84,0.235,3,3,Male,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST00775,55,78207.24,1,19.62,19.62,9,13,0.555,0,2,Female,East,Electronics,In-Store,2,Budget Shoppers
+CUST00776,56,65310.83,3,25.57,76.7,30,39,0.574,0,3,Female,North,Groceries,Online,2,Budget Shoppers
+CUST00777,40,47151.3,7,34.02,238.15,33,41,0.604,0,4,Male,Central,Books,Online,2,Budget Shoppers
+CUST00778,59,37944.45,4,32.19,128.75,69,39,0.424,0,2,Female,West,Home & Garden,In-Store,2,Budget Shoppers
+CUST00779,54,54925.43,1,34.29,34.29,5,28,0.514,0,2,Female,South,Beauty,Online,2,Budget Shoppers
+CUST00780,46,22205.54,2,66.48,132.96,285,31,0.331,0,2,Male,Central,Beauty,Online,3,At-Risk / Occasional
+CUST00781,19,46123.78,2,91.66,183.32,221,43,1.0,0,3,Female,West,Electronics,Online,3,At-Risk / Occasional
+CUST00782,39,43418.85,2,34.11,68.23,85,1,0.347,0,2,Male,Central,Toys,In-Store,3,At-Risk / Occasional
+CUST00783,49,33226.29,5,28.88,144.39,7,51,0.676,0,2,Male,South,Groceries,In-Store,2,Budget Shoppers
+CUST00784,27,60000.0,23,145.02,3335.47,6,31,0.349,1,4,Male,North,Fashion,In-Store,0,High-Value Loyalists
+CUST00785,45,42676.07,9,41.65,374.89,133,17,0.773,2,4,Male,Central,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00786,24,49831.38,15,35.2,528.06,1,30,0.534,0,4,Male,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00787,36,60737.17,2,71.13,142.26,75,29,0.208,0,3,Other,West,Groceries,Online,3,At-Risk / Occasional
+CUST00788,49,100559.52,19,139.64,2653.12,13,29,0.252,2,4,Female,South,Sports,In-Store,0,High-Value Loyalists
+CUST00789,53,115139.53,21,127.82,2684.26,9,86,0.004,1,3,Female,East,Sports,Online,0,High-Value Loyalists
+CUST00790,25,20527.44,17,38.16,648.78,20,21,0.521,0,2,Male,North,Electronics,Mobile App,1,Young Trend Seekers
+CUST00791,28,33413.0,5,14.79,73.97,4,32,0.671,0,3,Female,South,Books,In-Store,2,Budget Shoppers
+CUST00792,30,64576.4,2,41.91,83.83,7,37,0.332,0,4,Female,East,Beauty,Online,2,Budget Shoppers
+CUST00793,59,23302.63,2,23.14,46.28,94,10,0.052,0,3,Female,West,Sports,Mobile App,3,At-Risk / Occasional
+CUST00794,34,64927.34,2,47.12,94.24,100,1,0.714,1,4,Male,West,Books,Online,3,At-Risk / Occasional
+CUST00795,35,40914.87,5,24.71,123.53,50,45,0.485,0,3,Female,West,Groceries,Mobile App,2,Budget Shoppers
+CUST00796,18,12442.28,13,36.87,479.33,6,8,0.871,1,4,Male,West,Electronics,In-Store,1,Young Trend Seekers
+CUST00797,25,41836.07,10,27.67,276.69,6,28,0.896,0,2,Male,Central,Electronics,Mobile App,2,Budget Shoppers
+CUST00798,42,69970.78,2,34.39,68.78,68,1,0.998,0,3,Female,East,Books,In-Store,2,Budget Shoppers
+CUST00799,18,63125.9,3,47.67,143.01,26,14,0.736,0,3,Male,East,Sports,In-Store,1,Young Trend Seekers
+CUST00800,27,23852.47,13,37.28,484.63,35,24,0.361,2,4,Male,South,Fashion,Online,1,Young Trend Seekers
+CUST00801,53,31420.42,2,48.83,97.66,148,33,0.287,0,1,Male,East,Electronics,In-Store,3,At-Risk / Occasional
+CUST00802,53,32862.37,8,27.43,219.43,47,44,0.761,0,2,Female,North,Groceries,Online,2,Budget Shoppers
+CUST00803,18,61134.68,4,46.16,184.66,7,1,0.181,1,4,Male,West,Fashion,Online,1,Young Trend Seekers
+CUST00804,53,58733.84,2,24.08,48.16,53,22,0.791,0,4,Male,South,Books,In-Store,2,Budget Shoppers
+CUST00805,25,103284.94,23,138.68,3189.75,1,50,0.225,2,3,Male,South,Sports,Online,0,High-Value Loyalists
+CUST00806,18,90758.33,1,10.0,10.0,27,1,0.37,0,3,Male,Central,Sports,Online,3,At-Risk / Occasional
+CUST00807,20,35383.4,15,39.56,593.35,45,1,0.684,2,3,Male,South,Beauty,Online,1,Young Trend Seekers
+CUST00808,20,26894.54,20,52.39,1047.79,90,7,0.747,4,4,Female,North,Electronics,Mobile App,1,Young Trend Seekers
+CUST00809,42,75392.39,25,80.66,2016.53,3,72,0.327,3,2,Male,South,Fashion,In-Store,0,High-Value Loyalists
+CUST00810,59,39161.89,8,30.82,246.53,28,52,0.622,0,3,Female,North,Home & Garden,In-Store,2,Budget Shoppers
+CUST00811,18,38680.25,9,22.36,201.26,7,5,0.591,1,2,Male,East,Beauty,Online,1,Young Trend Seekers
+CUST00812,29,32769.0,19,45.71,868.57,1,15,1.0,3,5,Female,West,Electronics,Online,1,Young Trend Seekers
+CUST00813,33,57571.04,5,9.9,49.52,26,49,0.38,0,4,Other,East,Books,In-Store,2,Budget Shoppers
+CUST00814,22,37500.08,11,24.66,271.28,24,21,0.268,0,3,Male,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST00815,24,46434.67,11,43.91,483.0,41,18,0.374,0,3,Male,East,Fashion,In-Store,1,Young Trend Seekers
+CUST00816,48,42469.84,1,23.42,23.42,31,11,0.095,0,4,Female,South,Home & Garden,Online,3,At-Risk / Occasional
+CUST00817,30,15000.0,3,60.83,182.48,6,1,0.38,0,3,Other,West,Home & Garden,Online,1,Young Trend Seekers
+CUST00818,35,109384.08,23,153.87,3538.99,1,53,0.276,1,3,Male,West,Fashion,In-Store,0,High-Value Loyalists
+CUST00819,48,38591.75,6,37.01,222.03,1,18,0.41,0,2,Female,East,Groceries,Online,2,Budget Shoppers
+CUST00820,49,115410.25,20,163.53,3270.51,1,33,0.422,2,4,Female,North,Sports,Online,0,High-Value Loyalists
+CUST00821,34,52181.62,16,34.96,559.38,26,14,0.731,2,3,Male,Central,Fashion,In-Store,1,Young Trend Seekers
+CUST00822,57,37419.86,12,27.25,327.02,34,24,0.401,0,3,Male,West,Groceries,In-Store,2,Budget Shoppers
+CUST00823,43,133114.37,25,148.31,3707.78,1,55,0.196,0,4,Female,East,Fashion,In-Store,0,High-Value Loyalists
+CUST00824,42,92605.05,20,100.08,2001.58,3,54,0.254,2,5,Female,West,Fashion,In-Store,0,High-Value Loyalists
+CUST00825,50,28085.21,4,43.48,173.93,64,21,0.201,0,4,Female,East,Electronics,Online,3,At-Risk / Occasional
+CUST00826,27,14541.78,16,45.31,725.0,1,13,0.653,2,5,Male,West,Fashion,Online,1,Young Trend Seekers
+CUST00827,49,110424.51,24,161.88,3885.12,1,86,0.115,2,4,Male,East,Fashion,In-Store,0,High-Value Loyalists
+CUST00828,39,89545.37,15,158.08,2371.24,20,19,0.383,1,4,Male,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST00829,22,80591.44,5,33.23,166.16,135,4,0.462,0,3,Male,West,Home & Garden,Online,3,At-Risk / Occasional
+CUST00830,65,89737.87,20,96.53,1930.69,12,62,0.224,1,5,Female,West,Fashion,Mobile App,0,High-Value Loyalists
+CUST00831,40,36470.88,9,28.97,260.73,49,33,0.601,1,3,Male,North,Groceries,In-Store,2,Budget Shoppers
+CUST00832,25,99625.86,25,114.36,2859.12,5,40,0.103,0,4,Male,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST00833,46,50451.79,4,14.59,58.37,84,29,0.95,0,2,Other,North,Books,Online,2,Budget Shoppers
+CUST00834,61,56417.93,4,31.83,127.33,7,39,0.734,1,3,Male,South,Home & Garden,Online,2,Budget Shoppers
+CUST00835,53,128214.55,23,103.9,2389.6,3,78,0.161,2,5,Male,South,Fashion,In-Store,0,High-Value Loyalists
+CUST00836,45,101526.9,22,212.09,4665.98,3,55,0.197,1,5,Male,Central,Electronics,In-Store,0,High-Value Loyalists
+CUST00837,22,45261.72,18,42.37,762.61,2,11,0.331,2,4,Male,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00838,38,98447.33,26,103.18,2682.69,4,77,0.052,4,3,Female,South,Electronics,In-Store,0,High-Value Loyalists
+CUST00839,20,56002.38,3,79.05,237.14,67,1,0.185,0,2,Female,East,Fashion,In-Store,3,At-Risk / Occasional
+CUST00840,37,60799.63,1,61.39,61.39,71,1,0.259,0,3,Female,East,Toys,In-Store,3,At-Risk / Occasional
+CUST00841,49,32704.68,3,27.47,82.4,97,40,0.686,0,2,Female,Central,Books,In-Store,2,Budget Shoppers
+CUST00842,30,55286.07,1,48.97,48.97,110,28,0.488,0,2,Male,North,Groceries,Online,3,At-Risk / Occasional
+CUST00843,40,42871.92,6,26.82,160.92,6,36,0.975,0,3,Male,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00844,29,35957.93,14,17.34,242.82,1,22,0.639,2,2,Female,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00845,37,41168.81,5,30.81,154.07,100,7,0.549,0,3,Male,East,Home & Garden,In-Store,3,At-Risk / Occasional
+CUST00846,34,81132.42,20,132.18,2643.53,1,88,0.159,2,4,Female,East,Electronics,Online,0,High-Value Loyalists
+CUST00847,61,45858.3,3,34.06,102.17,46,4,0.894,1,2,Male,South,Books,In-Store,2,Budget Shoppers
+CUST00848,20,30039.04,14,37.89,530.46,13,18,0.413,0,4,Male,West,Fashion,In-Store,1,Young Trend Seekers
+CUST00849,42,79362.13,6,36.13,216.78,80,17,0.584,1,3,Male,Central,Electronics,Online,3,At-Risk / Occasional
+CUST00850,26,37370.52,2,27.79,55.58,365,19,0.095,1,3,Female,West,Beauty,In-Store,3,At-Risk / Occasional
+CUST00851,43,49543.59,4,12.09,48.35,6,30,0.584,0,4,Female,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00852,55,55015.76,2,59.06,118.13,5,25,0.358,0,2,Female,South,Fashion,In-Store,2,Budget Shoppers
+CUST00853,49,37124.47,4,35.52,142.1,13,3,0.692,0,3,Male,Central,Groceries,Mobile App,2,Budget Shoppers
+CUST00854,22,37507.43,21,27.15,570.22,6,22,0.532,4,3,Female,North,Electronics,Online,1,Young Trend Seekers
+CUST00855,61,24050.51,6,24.57,147.44,7,19,0.614,0,4,Female,West,Groceries,In-Store,2,Budget Shoppers
+CUST00856,22,39758.54,4,34.27,137.08,22,36,0.644,1,3,Male,Central,Groceries,Online,1,Young Trend Seekers
+CUST00857,53,56282.06,5,38.57,192.85,102,30,0.741,2,3,Male,East,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00858,49,86912.57,22,114.99,2529.89,15,81,0.36,5,5,Female,North,Electronics,In-Store,0,High-Value Loyalists
+CUST00859,37,64193.8,1,71.75,71.75,63,15,0.607,0,3,Female,South,Home & Garden,Online,3,At-Risk / Occasional
+CUST00860,66,37505.66,7,25.12,175.84,35,44,0.926,1,3,Male,South,Home & Garden,In-Store,2,Budget Shoppers
+CUST00861,27,77489.23,2,26.95,53.91,11,14,0.373,0,3,Male,South,Electronics,Online,3,At-Risk / Occasional
+CUST00862,41,101365.81,17,143.94,2446.91,2,45,0.265,3,4,Male,Central,Fashion,In-Store,0,High-Value Loyalists
+CUST00863,41,58820.09,2,10.24,20.49,14,11,0.889,0,3,Female,North,Sports,Online,2,Budget Shoppers
+CUST00864,53,100371.37,26,161.52,4199.48,1,95,0.155,1,5,Female,Central,Fashion,Online,0,High-Value Loyalists
+CUST00865,48,94804.21,25,145.16,3628.97,6,12,0.173,1,5,Female,South,Sports,In-Store,0,High-Value Loyalists
+CUST00866,37,62870.71,1,22.23,22.23,14,39,0.497,0,3,Female,East,Fashion,Mobile App,2,Budget Shoppers
+CUST00867,50,39729.34,9,27.56,248.06,7,28,1.0,1,4,Female,South,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00868,42,28985.75,8,26.74,213.94,1,10,0.746,1,3,Female,South,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00869,27,61896.95,16,33.9,542.33,21,8,0.69,1,4,Other,North,Fashion,Online,1,Young Trend Seekers
+CUST00870,20,28849.31,15,12.85,192.74,33,16,0.358,1,4,Male,Central,Beauty,Mobile App,1,Young Trend Seekers
+CUST00871,43,64312.88,16,100.94,1615.09,10,79,0.104,2,4,Female,Central,Sports,Mobile App,0,High-Value Loyalists
+CUST00872,50,37786.64,8,21.58,172.66,41,50,0.869,1,3,Male,West,Groceries,In-Store,2,Budget Shoppers
+CUST00873,18,32952.02,1,47.01,47.01,38,22,0.545,0,3,Male,South,Books,Online,3,At-Risk / Occasional
+CUST00874,43,125020.62,25,211.89,5297.32,13,83,0.127,4,4,Male,West,Sports,Online,0,High-Value Loyalists
+CUST00875,44,38321.61,5,25.13,125.63,40,26,0.909,0,3,Male,East,Books,Online,2,Budget Shoppers
+CUST00876,22,42822.31,10,30.62,306.17,7,32,0.898,0,4,Male,West,Books,In-Store,1,Young Trend Seekers
+CUST00877,18,69715.62,1,63.12,63.12,123,35,0.461,0,1,Male,West,Fashion,In-Store,3,At-Risk / Occasional
+CUST00878,40,50990.53,1,45.39,45.39,365,30,0.424,0,2,Female,West,Fashion,Online,3,At-Risk / Occasional
+CUST00879,47,41814.79,4,39.84,159.37,18,37,0.576,0,3,Female,Central,Groceries,Mobile App,2,Budget Shoppers
+CUST00880,35,40296.42,6,37.16,222.94,5,56,0.687,1,4,Female,West,Groceries,Online,2,Budget Shoppers
+CUST00881,26,29643.79,2,33.98,67.96,26,23,0.496,0,3,Female,Central,Home & Garden,Online,2,Budget Shoppers
+CUST00882,39,15000.0,6,29.96,179.79,200,17,0.64,0,3,Female,South,Electronics,Mobile App,3,At-Risk / Occasional
+CUST00883,60,30558.44,6,23.31,139.86,97,34,0.74,0,3,Female,North,Books,Online,2,Budget Shoppers
+CUST00884,38,49316.31,5,27.74,138.69,6,18,0.564,1,4,Male,South,Groceries,In-Store,2,Budget Shoppers
+CUST00885,26,22378.69,3,10.0,30.0,93,1,0.402,1,3,Female,Central,Beauty,In-Store,3,At-Risk / Occasional
+CUST00886,56,26395.92,8,34.33,274.62,29,31,0.714,0,3,Female,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00887,18,63462.48,1,43.75,43.75,28,17,0.495,0,3,Female,East,Groceries,Mobile App,3,At-Risk / Occasional
+CUST00888,51,35060.03,6,17.12,102.7,9,1,0.768,0,2,Male,South,Books,Online,2,Budget Shoppers
+CUST00889,35,38736.04,7,34.25,239.76,24,42,1.0,1,3,Female,North,Books,Mobile App,2,Budget Shoppers
+CUST00890,56,46141.78,6,26.06,156.34,11,33,0.681,0,3,Male,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00891,18,81017.51,3,35.78,107.33,21,1,0.154,0,3,Female,North,Beauty,In-Store,3,At-Risk / Occasional
+CUST00892,20,22527.8,12,44.71,536.53,4,26,0.406,1,4,Female,North,Fashion,In-Store,1,Young Trend Seekers
+CUST00893,18,43794.18,11,20.93,230.27,7,13,0.81,0,3,Female,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00894,41,129323.32,32,123.46,3950.68,1,42,0.194,3,4,Male,South,Sports,Online,0,High-Value Loyalists
+CUST00895,53,15000.0,1,57.46,57.46,86,28,0.43,0,4,Male,South,Fashion,In-Store,2,Budget Shoppers
+CUST00896,60,55626.63,12,31.23,374.75,63,1,0.581,0,4,Male,West,Home & Garden,In-Store,2,Budget Shoppers
+CUST00897,48,127579.13,25,116.43,2910.66,15,64,0.358,2,4,Male,West,Electronics,In-Store,0,High-Value Loyalists
+CUST00898,26,28043.91,20,38.26,765.26,9,11,0.429,2,2,Male,West,Beauty,In-Store,1,Young Trend Seekers
+CUST00899,57,49914.12,2,29.34,58.67,30,51,0.843,0,3,Male,Central,Books,Online,2,Budget Shoppers
+CUST00900,40,48697.67,6,26.62,159.75,48,56,0.591,0,4,Male,South,Groceries,In-Store,2,Budget Shoppers
+CUST00901,52,55816.1,10,21.92,219.18,24,28,1.0,1,3,Male,East,Groceries,Mobile App,2,Budget Shoppers
+CUST00902,41,43987.83,4,26.21,104.82,24,22,0.596,0,3,Female,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00903,50,37616.81,4,24.21,96.85,25,27,0.622,0,3,Female,South,Home & Garden,In-Store,2,Budget Shoppers
+CUST00904,31,56439.93,1,88.95,88.95,5,41,0.637,0,3,Female,East,Beauty,In-Store,2,Budget Shoppers
+CUST00905,47,119511.8,24,162.67,3904.09,3,81,0.282,2,4,Male,North,Electronics,Mobile App,0,High-Value Loyalists
+CUST00906,20,53784.49,10,42.86,428.63,10,11,0.4,2,3,Male,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST00907,22,42451.89,15,37.03,555.51,21,28,0.361,2,3,Male,West,Beauty,Online,1,Young Trend Seekers
+CUST00908,45,125482.82,20,211.54,4230.88,7,88,0.171,2,4,Male,Central,Electronics,In-Store,0,High-Value Loyalists
+CUST00909,46,44895.87,2,29.05,58.11,99,35,0.259,0,3,Male,East,Groceries,In-Store,3,At-Risk / Occasional
+CUST00910,51,123771.42,21,119.12,2501.56,1,45,0.251,1,5,Female,South,Electronics,In-Store,0,High-Value Loyalists
+CUST00911,34,30467.39,1,43.95,43.95,266,27,0.474,0,2,Male,North,Books,Mobile App,3,At-Risk / Occasional
+CUST00912,52,44561.02,6,43.39,260.34,30,29,0.476,1,3,Male,West,Groceries,Online,2,Budget Shoppers
+CUST00913,18,50659.26,3,19.99,59.97,210,33,0.456,1,2,Female,West,Fashion,Mobile App,3,At-Risk / Occasional
+CUST00914,31,85444.91,13,104.6,1359.79,3,62,0.238,2,3,Male,East,Fashion,In-Store,0,High-Value Loyalists
+CUST00915,52,52795.85,3,52.36,157.07,143,23,0.218,1,3,Male,West,Toys,In-Store,3,At-Risk / Occasional
+CUST00916,57,82247.27,26,110.46,2871.98,7,53,0.246,3,5,Male,West,Electronics,Online,0,High-Value Loyalists
+CUST00917,44,73464.71,24,162.85,3908.29,1,46,0.108,1,4,Female,West,Electronics,In-Store,0,High-Value Loyalists
+CUST00918,24,46978.65,16,27.47,439.54,69,14,0.448,2,3,Female,West,Beauty,Online,1,Young Trend Seekers
+CUST00919,62,94459.64,4,13.93,55.72,76,38,0.288,0,2,Male,Central,Sports,Mobile App,3,At-Risk / Occasional
+CUST00920,38,44511.81,9,34.13,307.19,94,23,0.576,0,4,Female,North,Groceries,Online,2,Budget Shoppers
+CUST00921,20,27733.09,17,28.97,492.56,1,6,0.098,1,3,Male,Central,Beauty,Online,1,Young Trend Seekers
+CUST00922,25,111769.46,18,158.13,2846.36,5,50,0.088,2,4,Female,Central,Electronics,Online,0,High-Value Loyalists
+CUST00923,24,45168.33,18,43.58,784.47,47,24,0.892,0,4,Male,Central,Electronics,Online,1,Young Trend Seekers
+CUST00924,18,66698.54,2,38.74,77.48,117,16,0.295,0,3,Male,North,Fashion,Online,3,At-Risk / Occasional
+CUST00925,25,123713.71,26,160.44,4171.56,3,58,0.367,3,3,Male,East,Sports,Mobile App,0,High-Value Loyalists
+CUST00926,48,43533.61,6,23.7,142.2,44,22,0.609,1,2,Female,South,Groceries,Online,2,Budget Shoppers
+CUST00927,45,44649.21,8,20.19,161.54,1,25,0.578,0,4,Male,South,Groceries,Online,2,Budget Shoppers
+CUST00928,27,44037.89,2,61.6,123.2,45,23,0.474,0,3,Male,East,Electronics,Online,3,At-Risk / Occasional
+CUST00929,43,44243.39,2,36.88,73.77,46,11,0.225,0,3,Male,East,Books,Mobile App,3,At-Risk / Occasional
+CUST00930,37,41008.37,6,38.05,228.3,24,28,0.896,2,4,Male,North,Books,In-Store,2,Budget Shoppers
+CUST00931,52,30261.59,5,24.76,123.79,4,53,0.564,1,2,Female,West,Groceries,Online,2,Budget Shoppers
+CUST00932,18,60219.31,20,33.9,678.03,14,23,0.584,1,4,Male,South,Beauty,In-Store,1,Young Trend Seekers
+CUST00933,26,56600.71,13,23.87,310.32,33,26,0.857,2,3,Male,South,Electronics,Mobile App,1,Young Trend Seekers
+CUST00934,75,54435.86,3,37.92,113.77,63,21,0.445,0,4,Female,East,Toys,Online,2,Budget Shoppers
+CUST00935,34,45434.73,3,21.48,64.45,1,20,0.836,0,4,Female,West,Home & Garden,In-Store,2,Budget Shoppers
+CUST00936,71,26190.87,8,39.35,314.83,1,42,0.686,1,4,Female,East,Groceries,Mobile App,2,Budget Shoppers
+CUST00937,40,36442.43,1,18.84,18.84,59,43,0.653,0,2,Female,West,Books,Online,2,Budget Shoppers
+CUST00938,19,41449.5,19,25.28,480.37,19,19,0.727,4,2,Male,East,Fashion,In-Store,1,Young Trend Seekers
+CUST00939,66,30186.05,7,27.26,190.81,4,1,0.457,0,3,Female,East,Groceries,In-Store,2,Budget Shoppers
+CUST00940,22,16598.05,3,26.93,80.78,63,40,0.483,1,2,Female,South,Sports,Online,3,At-Risk / Occasional
+CUST00941,55,48752.23,11,8.06,88.64,55,43,0.808,0,3,Other,South,Groceries,Online,2,Budget Shoppers
+CUST00942,28,58128.82,2,70.08,140.15,35,9,0.0,1,2,Female,West,Electronics,Online,3,At-Risk / Occasional
+CUST00943,25,62933.62,3,36.96,110.88,54,33,0.637,1,3,Female,South,Toys,Online,2,Budget Shoppers
+CUST00944,18,62843.04,17,36.53,620.98,1,11,0.867,3,4,Male,North,Beauty,Online,1,Young Trend Seekers
+CUST00945,31,48767.29,4,25.59,102.36,42,14,0.68,1,3,Male,North,Home & Garden,In-Store,2,Budget Shoppers
+CUST00946,48,42574.31,9,20.04,180.32,30,34,0.697,1,2,Female,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00947,37,40152.37,7,38.24,267.7,28,53,0.736,1,3,Male,North,Home & Garden,Mobile App,2,Budget Shoppers
+CUST00948,24,31273.51,10,21.12,211.19,19,12,0.564,1,4,Male,Central,Fashion,Mobile App,1,Young Trend Seekers
+CUST00949,23,38923.2,23,27.56,633.97,29,19,1.0,3,3,Female,West,Electronics,Online,1,Young Trend Seekers
+CUST00950,27,74961.64,1,37.2,37.2,44,20,0.391,0,2,Male,East,Beauty,Online,3,At-Risk / Occasional
+CUST00951,27,78805.87,2,57.14,114.27,10,21,0.418,0,2,Male,East,Fashion,In-Store,3,At-Risk / Occasional
+CUST00952,68,70342.54,4,10.0,40.0,5,1,0.391,0,2,Female,Central,Fashion,In-Store,2,Budget Shoppers
+CUST00953,37,53699.27,7,27.85,194.92,20,43,0.57,1,3,Male,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST00954,29,40245.03,14,28.21,394.99,9,18,0.544,3,4,Female,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST00955,42,143330.99,17,147.77,2512.04,6,64,0.152,2,5,Male,West,Electronics,In-Store,0,High-Value Loyalists
+CUST00956,46,103590.79,25,157.08,3926.98,16,46,0.018,1,4,Female,North,Electronics,Mobile App,0,High-Value Loyalists
+CUST00957,33,80153.61,1,48.79,48.79,171,1,0.184,0,3,Female,North,Beauty,Online,3,At-Risk / Occasional
+CUST00958,38,59117.22,5,35.38,176.92,15,36,0.611,0,3,Male,West,Groceries,Mobile App,2,Budget Shoppers
+CUST00959,46,24810.94,3,34.27,102.82,62,42,0.734,0,4,Male,West,Home & Garden,In-Store,2,Budget Shoppers
+CUST00960,46,70850.13,2,70.88,141.75,7,6,0.029,0,4,Male,West,Fashion,Online,3,At-Risk / Occasional
+CUST00961,32,48056.05,6,45.2,271.21,13,14,0.484,1,3,Female,West,Home & Garden,Mobile App,1,Young Trend Seekers
+CUST00962,36,61627.78,1,85.6,85.6,152,7,0.42,0,1,Male,South,Beauty,Online,3,At-Risk / Occasional
+CUST00963,46,46131.72,5,30.1,150.49,8,9,0.733,0,2,Male,South,Groceries,Mobile App,2,Budget Shoppers
+CUST00964,43,94186.41,24,194.92,4678.04,20,57,0.224,2,3,Male,West,Electronics,Mobile App,0,High-Value Loyalists
+CUST00965,47,86446.16,29,93.86,2722.08,8,94,0.146,1,2,Female,East,Electronics,In-Store,0,High-Value Loyalists
+CUST00966,41,70559.53,21,136.65,2869.65,8,87,0.215,0,3,Male,South,Electronics,Online,0,High-Value Loyalists
+CUST00967,18,67213.91,4,61.26,245.06,79,24,0.698,0,3,Female,South,Toys,Online,3,At-Risk / Occasional
+CUST00968,40,112234.37,18,177.79,3200.21,4,38,0.285,2,4,Female,East,Electronics,In-Store,0,High-Value Loyalists
+CUST00969,56,44480.62,1,66.16,66.16,126,14,0.938,0,3,Female,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST00970,47,104225.7,28,195.63,5477.65,6,29,0.041,5,3,Male,East,Fashion,Online,0,High-Value Loyalists
+CUST00971,56,62154.68,3,27.42,82.25,5,7,0.0,0,2,Male,South,Books,Mobile App,3,At-Risk / Occasional
+CUST00972,25,28351.74,14,37.66,527.2,20,5,0.597,1,3,Male,East,Fashion,In-Store,1,Young Trend Seekers
+CUST00973,44,68902.05,1,59.31,59.31,5,12,0.744,0,3,Male,Central,Books,In-Store,2,Budget Shoppers
+CUST00974,53,51673.64,8,32.41,259.29,8,40,0.711,0,4,Female,West,Books,In-Store,2,Budget Shoppers
+CUST00975,38,33677.87,11,37.15,408.7,23,29,0.491,2,3,Female,East,Home & Garden,Online,1,Young Trend Seekers
+CUST00976,58,45996.59,3,31.84,95.53,43,36,0.757,0,3,Female,Central,Books,In-Store,2,Budget Shoppers
+CUST00977,27,44073.85,3,33.58,100.73,131,41,0.727,1,2,Female,South,Electronics,Online,3,At-Risk / Occasional
+CUST00978,47,48050.6,7,23.49,164.45,57,50,0.692,0,3,Other,North,Books,In-Store,2,Budget Shoppers
+CUST00979,31,109723.68,24,109.46,2627.05,1,25,0.114,3,4,Male,South,Electronics,In-Store,0,High-Value Loyalists
+CUST00980,52,48385.41,1,81.52,81.52,5,39,0.389,0,3,Male,South,Beauty,In-Store,2,Budget Shoppers
+CUST00981,55,113154.55,25,94.36,2358.97,1,55,0.123,3,4,Male,Central,Sports,In-Store,0,High-Value Loyalists
+CUST00982,54,28610.93,4,31.32,125.29,112,1,0.535,0,3,Male,Central,Sports,In-Store,3,At-Risk / Occasional
+CUST00983,63,26160.62,4,38.22,152.9,55,25,0.65,0,3,Male,East,Home & Garden,Online,2,Budget Shoppers
+CUST00984,40,38949.82,5,22.18,110.92,29,18,0.926,0,3,Male,East,Home & Garden,Online,2,Budget Shoppers
+CUST00985,68,45541.84,1,35.47,35.47,19,39,0.155,0,2,Female,South,Books,In-Store,2,Budget Shoppers
+CUST00986,32,96887.5,23,131.93,3034.41,1,43,0.093,2,5,Female,Central,Electronics,Online,0,High-Value Loyalists
+CUST00987,25,75489.07,1,25.29,25.29,16,39,0.311,0,2,Female,Central,Toys,Online,3,At-Risk / Occasional
+CUST00988,34,110649.01,23,117.88,2711.33,1,50,0.157,1,5,Female,Central,Sports,In-Store,0,High-Value Loyalists
+CUST00989,53,57411.53,6,25.52,153.12,25,25,0.594,0,4,Male,East,Groceries,In-Store,2,Budget Shoppers
+CUST00990,22,35301.5,16,24.78,396.48,54,14,0.516,0,4,Female,Central,Electronics,Mobile App,1,Young Trend Seekers
+CUST00991,50,92781.06,3,46.42,139.27,197,4,0.742,0,3,Female,North,Fashion,Online,3,At-Risk / Occasional
+CUST00992,59,46710.02,3,33.1,99.29,26,39,0.268,0,2,Female,West,Toys,Online,2,Budget Shoppers
+CUST00993,33,55043.96,7,34.66,242.6,58,45,0.783,2,3,Female,Central,Groceries,In-Store,2,Budget Shoppers
+CUST00994,24,38515.39,3,25.06,75.17,63,26,0.242,0,3,Female,Central,Toys,Mobile App,3,At-Risk / Occasional
+CUST00995,51,95724.31,24,160.16,3843.93,1,63,0.375,2,5,Female,North,Fashion,Online,0,High-Value Loyalists
+CUST00996,45,42263.72,7,21.06,147.45,40,13,0.406,0,4,Female,North,Home & Garden,In-Store,2,Budget Shoppers
+CUST00997,22,49764.06,17,31.07,528.12,26,15,0.386,1,3,Male,East,Beauty,Mobile App,1,Young Trend Seekers
+CUST00998,36,39070.38,2,34.2,68.4,1,42,0.898,0,2,Male,North,Groceries,Mobile App,2,Budget Shoppers
+CUST00999,21,43289.84,14,29.35,410.95,2,1,0.937,2,4,Male,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST01000,40,112450.55,18,111.7,2010.55,11,51,0.216,1,4,Male,North,Fashion,In-Store,0,High-Value Loyalists
+CUST01001,63,58990.73,9,45.66,410.98,25,31,0.758,1,3,Male,West,Groceries,In-Store,2,Budget Shoppers
+CUST01002,65,95182.23,1,68.15,68.15,55,1,0.312,0,3,Female,West,Groceries,In-Store,3,At-Risk / Occasional
+CUST01003,23,52227.62,17,38.42,653.07,25,24,0.492,4,3,Female,West,Electronics,Mobile App,1,Young Trend Seekers
+CUST01004,23,34454.05,2,24.42,48.83,250,36,0.329,0,3,Female,East,Sports,Mobile App,3,At-Risk / Occasional
+CUST01005,18,36077.23,17,21.95,373.11,7,17,0.716,2,4,Male,North,Beauty,Mobile App,1,Young Trend Seekers
+CUST01006,31,56484.92,2,73.31,146.62,96,35,0.307,0,3,Male,East,Beauty,Online,3,At-Risk / Occasional
+CUST01007,55,69459.04,1,31.85,31.85,142,1,0.456,0,3,Female,South,Electronics,In-Store,3,At-Risk / Occasional
+CUST01008,26,14164.51,10,45.16,451.65,26,1,0.712,1,3,Male,South,Fashion,Online,1,Young Trend Seekers
+CUST01009,42,44294.16,5,18.01,90.04,63,29,0.631,1,3,Female,East,Groceries,In-Store,2,Budget Shoppers
+CUST01010,31,125861.41,23,191.91,4413.93,14,58,0.236,0,4,Female,West,Fashion,Mobile App,0,High-Value Loyalists
+CUST01011,32,36564.74,8,19.09,152.69,27,25,0.713,1,4,Female,North,Groceries,In-Store,1,Young Trend Seekers
+CUST01012,23,41174.49,21,38.36,805.64,44,14,0.753,4,4,Male,East,Fashion,Online,1,Young Trend Seekers
+CUST01013,25,39983.41,4,39.74,158.96,21,9,0.241,0,4,Female,West,Beauty,Mobile App,1,Young Trend Seekers
+CUST01014,29,31676.37,10,30.0,299.97,91,27,0.681,1,3,Male,West,Home & Garden,In-Store,1,Young Trend Seekers
+CUST01015,24,77012.28,1,69.57,69.57,56,31,0.425,0,3,Other,Central,Electronics,In-Store,3,At-Risk / Occasional
+CUST01016,31,31608.87,16,21.83,349.33,29,16,0.86,1,3,Male,Central,Fashion,Online,1,Young Trend Seekers
+CUST01017,57,38974.0,11,33.14,364.57,60,38,0.492,2,3,Male,South,Groceries,In-Store,2,Budget Shoppers
+CUST01018,27,68507.64,1,27.65,27.65,57,21,0.279,0,2,Male,South,Fashion,Online,3,At-Risk / Occasional
+CUST01019,25,35322.51,18,17.12,308.17,1,8,1.0,0,3,Male,North,Electronics,In-Store,1,Young Trend Seekers
+CUST01020,50,40728.17,6,16.95,101.68,2,18,0.405,1,3,Male,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST01021,36,46428.42,5,62.78,313.89,134,26,0.412,0,3,Female,East,Beauty,In-Store,3,At-Risk / Occasional
+CUST01022,55,113595.99,22,157.3,3460.55,10,58,0.265,1,3,Female,East,Fashion,In-Store,0,High-Value Loyalists
+CUST01023,26,30112.62,16,36.36,581.83,16,2,0.327,2,4,Male,Central,Beauty,Online,1,Young Trend Seekers
+CUST01024,20,53802.56,10,29.88,298.78,11,1,0.758,1,3,Male,West,Beauty,In-Store,1,Young Trend Seekers
+CUST01025,19,37822.71,12,26.92,323.07,15,1,0.648,2,3,Male,East,Beauty,In-Store,1,Young Trend Seekers
+CUST01026,44,104957.77,21,128.8,2704.83,2,62,0.33,0,3,Female,North,Fashion,In-Store,0,High-Value Loyalists
+CUST01027,18,43564.38,13,34.79,452.27,28,17,0.527,1,3,Male,East,Fashion,Online,1,Young Trend Seekers
+CUST01028,19,43173.76,13,36.17,470.21,9,1,0.327,1,3,Female,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST01029,45,86493.27,17,147.39,2505.56,5,30,0.035,1,4,Male,North,Fashion,Online,0,High-Value Loyalists
+CUST01030,23,48287.65,18,8.0,144.0,5,17,0.443,1,2,Female,Central,Beauty,Online,1,Young Trend Seekers
+CUST01031,57,45680.48,8,24.73,197.87,13,41,0.766,0,2,Female,South,Home & Garden,Online,2,Budget Shoppers
+CUST01032,31,28866.27,1,58.68,58.68,38,22,0.191,1,3,Male,North,Beauty,Online,3,At-Risk / Occasional
+CUST01033,57,42888.34,6,20.03,120.19,6,48,0.955,2,5,Female,Central,Groceries,Mobile App,2,Budget Shoppers
+CUST01034,59,32641.07,5,28.57,142.86,1,62,0.71,0,3,Female,West,Home & Garden,Online,2,Budget Shoppers
+CUST01035,24,35977.72,5,28.17,140.86,50,47,0.785,1,3,Male,Central,Books,In-Store,2,Budget Shoppers
+CUST01036,28,45823.59,1,43.29,43.29,33,22,0.201,1,2,Male,West,Toys,In-Store,3,At-Risk / Occasional
+CUST01037,45,82266.25,20,103.25,2064.97,1,33,0.204,1,4,Female,East,Fashion,In-Store,0,High-Value Loyalists
+CUST01038,18,49915.4,1,40.54,40.54,5,23,0.469,0,4,Female,East,Electronics,In-Store,1,Young Trend Seekers
+CUST01039,53,44147.14,9,27.96,251.6,97,35,1.0,0,4,Female,South,Home & Garden,Online,2,Budget Shoppers
+CUST01040,32,92444.9,16,113.67,1818.77,6,101,0.223,3,4,Female,East,Sports,In-Store,0,High-Value Loyalists
+CUST01041,22,70865.09,4,36.66,146.62,202,1,0.119,0,2,Male,East,Beauty,Mobile App,3,At-Risk / Occasional
+CUST01042,46,36847.33,3,34.43,103.29,70,2,0.572,1,2,Male,West,Books,In-Store,3,At-Risk / Occasional
+CUST01043,41,110107.67,32,170.17,5445.52,2,85,0.091,1,4,Female,North,Sports,Online,0,High-Value Loyalists
+CUST01044,38,32257.28,1,29.04,29.04,18,44,0.543,0,1,Other,West,Beauty,Online,2,Budget Shoppers
+CUST01045,24,43827.35,17,11.73,199.39,9,5,0.472,2,3,Female,North,Electronics,Mobile App,1,Young Trend Seekers
+CUST01046,66,64908.58,2,20.48,40.97,9,9,0.263,0,2,Other,East,Electronics,Online,2,Budget Shoppers
+CUST01047,57,41137.16,6,35.68,214.06,35,41,0.773,0,3,Male,South,Home & Garden,Online,2,Budget Shoppers
+CUST01048,43,43988.78,8,27.71,221.68,45,25,0.641,1,3,Female,South,Books,Mobile App,2,Budget Shoppers
+CUST01049,22,26463.92,9,40.26,362.38,6,9,0.403,1,3,Male,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST01050,48,46388.54,9,42.01,378.13,180,42,0.674,0,3,Male,North,Books,Mobile App,3,At-Risk / Occasional
+CUST01051,25,46337.79,18,37.41,673.34,1,12,0.405,1,4,Male,West,Fashion,In-Store,1,Young Trend Seekers
+CUST01052,18,59274.24,2,50.66,101.32,160,44,0.192,0,4,Female,North,Electronics,Mobile App,3,At-Risk / Occasional
+CUST01053,25,53235.61,18,14.12,254.16,15,17,0.501,3,2,Female,East,Beauty,Mobile App,1,Young Trend Seekers
+CUST01054,26,45283.42,1,44.79,44.79,67,30,0.505,0,3,Female,South,Home & Garden,In-Store,3,At-Risk / Occasional
+CUST01055,19,41376.2,13,30.94,402.18,3,15,0.669,1,3,Male,West,Beauty,Online,1,Young Trend Seekers
+CUST01056,42,120669.36,17,200.64,3410.84,4,31,0.321,0,3,Female,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST01057,24,77272.09,4,38.43,153.7,38,30,0.474,0,3,Female,West,Books,In-Store,3,At-Risk / Occasional
+CUST01058,48,121850.42,19,128.27,2437.17,1,53,0.096,3,4,Male,South,Fashion,Mobile App,0,High-Value Loyalists
+CUST01059,33,71856.47,30,100.11,3003.3,4,69,0.065,5,5,Female,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST01060,43,86433.26,3,62.59,187.76,5,28,0.534,0,2,Female,West,Home & Garden,In-Store,2,Budget Shoppers
+CUST01061,24,31418.42,16,25.68,410.9,1,16,0.499,0,3,Female,East,Fashion,Online,1,Young Trend Seekers
+CUST01062,21,36228.9,11,52.32,575.51,2,8,0.682,0,4,Female,West,Beauty,Mobile App,1,Young Trend Seekers
+CUST01063,25,76897.51,1,38.7,38.7,35,13,0.344,1,3,Male,Central,Home & Garden,In-Store,3,At-Risk / Occasional
+CUST01064,40,128769.5,26,109.24,2840.28,3,62,0.274,1,3,Male,North,Fashion,Mobile App,0,High-Value Loyalists
+CUST01065,48,87508.7,19,104.84,1991.92,18,76,0.346,2,5,Male,North,Electronics,In-Store,0,High-Value Loyalists
+CUST01066,23,66623.23,1,81.76,81.76,365,27,0.556,0,3,Female,East,Sports,Online,3,At-Risk / Occasional
+CUST01067,55,42876.57,6,39.18,235.1,12,27,1.0,1,3,Female,South,Groceries,In-Store,2,Budget Shoppers
+CUST01068,37,40330.06,6,22.1,132.6,78,18,0.468,0,5,Male,West,Home & Garden,Mobile App,2,Budget Shoppers
+CUST01069,37,89338.31,22,148.69,3271.26,9,27,0.31,1,4,Female,West,Sports,In-Store,0,High-Value Loyalists
+CUST01070,41,135494.83,29,156.07,4526.12,1,29,0.098,0,4,Female,North,Fashion,Online,0,High-Value Loyalists
+CUST01071,31,90804.41,15,159.87,2398.0,5,78,0.304,3,4,Other,West,Fashion,Online,0,High-Value Loyalists
+CUST01072,46,46793.72,4,14.11,56.45,38,40,0.359,0,4,Male,West,Groceries,In-Store,2,Budget Shoppers
+CUST01073,22,44316.34,9,36.34,327.06,13,26,0.666,0,2,Male,North,Home & Garden,In-Store,1,Young Trend Seekers
+CUST01074,47,19657.1,9,30.41,273.67,123,38,0.754,0,3,Female,Central,Groceries,Mobile App,2,Budget Shoppers
+CUST01075,24,20266.73,18,28.32,509.69,5,19,0.284,5,2,Male,South,Fashion,Online,1,Young Trend Seekers
+CUST01076,43,141978.77,20,182.24,3644.83,1,29,0.056,2,5,Male,West,Electronics,In-Store,0,High-Value Loyalists
+CUST01077,40,123572.11,26,143.51,3731.26,7,35,0.334,4,5,Male,Central,Electronics,Online,0,High-Value Loyalists
+CUST01078,37,40862.58,2,42.75,85.51,84,20,0.118,0,3,Male,Central,Toys,Online,3,At-Risk / Occasional
+CUST01079,60,35591.66,9,31.92,287.29,39,27,0.618,0,4,Other,Central,Home & Garden,Online,2,Budget Shoppers
+CUST01080,20,19065.81,17,27.46,466.75,23,1,0.41,2,3,Female,East,Beauty,In-Store,1,Young Trend Seekers
+CUST01081,28,57071.73,1,36.61,36.61,35,13,0.768,0,4,Male,West,Beauty,In-Store,2,Budget Shoppers
+CUST01082,57,51032.92,4,30.92,123.66,6,45,0.681,0,4,Male,East,Books,Online,2,Budget Shoppers
+CUST01083,40,108658.73,27,159.33,4302.0,1,54,0.166,1,4,Male,West,Sports,Mobile App,0,High-Value Loyalists
+CUST01084,26,40598.73,14,10.02,140.35,18,7,0.614,0,4,Female,East,Beauty,Online,1,Young Trend Seekers
+CUST01085,22,34919.06,16,27.13,434.12,14,9,0.435,1,3,Female,West,Electronics,Mobile App,1,Young Trend Seekers
+CUST01086,38,92877.28,25,244.62,6115.39,2,76,0.173,2,4,Male,West,Electronics,In-Store,0,High-Value Loyalists
+CUST01087,47,55545.11,2,40.51,81.02,62,37,0.121,0,3,Female,West,Books,Online,3,At-Risk / Occasional
+CUST01088,37,50436.66,8,25.52,204.19,20,27,0.688,0,4,Female,Central,Books,Mobile App,2,Budget Shoppers
+CUST01089,21,46781.44,25,28.52,713.09,10,15,0.532,1,3,Female,South,Fashion,Online,1,Young Trend Seekers
+CUST01090,45,60877.9,6,24.77,148.59,14,17,0.741,1,3,Male,East,Books,Mobile App,2,Budget Shoppers
+CUST01091,20,34154.39,16,26.8,428.84,16,8,0.165,1,3,Female,North,Beauty,Mobile App,1,Young Trend Seekers
+CUST01092,43,50461.18,1,57.84,57.84,111,6,0.339,0,3,Female,North,Fashion,In-Store,3,At-Risk / Occasional
+CUST01093,18,86447.06,3,50.12,150.35,51,31,0.713,0,3,Female,Central,Toys,In-Store,3,At-Risk / Occasional
+CUST01094,40,37940.87,2,65.83,131.67,5,1,0.276,0,2,Female,North,Sports,Mobile App,3,At-Risk / Occasional
+CUST01095,43,23521.94,2,35.86,71.71,100,1,0.63,0,3,Female,East,Home & Garden,Mobile App,3,At-Risk / Occasional
+CUST01096,34,32965.91,11,24.39,268.34,2,1,0.906,0,2,Other,Central,Books,In-Store,2,Budget Shoppers
+CUST01097,42,43799.84,4,24.77,99.06,2,27,0.592,1,3,Female,West,Home & Garden,Mobile App,2,Budget Shoppers
+CUST01098,59,45918.96,3,30.28,90.85,9,42,0.748,0,3,Female,West,Books,In-Store,2,Budget Shoppers
+CUST01099,25,36209.42,4,38.1,152.42,148,1,0.638,0,3,Male,Central,Books,Online,3,At-Risk / Occasional
+CUST01100,32,98934.78,28,101.28,2835.78,21,48,0.263,2,4,Male,South,Sports,Online,0,High-Value Loyalists
+CUST01101,51,39467.96,4,36.65,146.61,51,26,0.71,0,4,Male,East,Home & Garden,In-Store,2,Budget Shoppers
+CUST01102,24,50548.96,17,23.84,405.36,8,1,0.405,0,4,Male,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST01103,25,49787.09,20,14.53,290.56,1,9,0.602,1,3,Female,South,Beauty,Mobile App,1,Young Trend Seekers
+CUST01104,19,26039.38,20,33.94,678.8,3,1,0.461,1,4,Female,West,Electronics,Online,1,Young Trend Seekers
+CUST01105,21,40127.24,25,46.93,1173.24,30,14,0.708,2,3,Female,Central,Fashion,Online,1,Young Trend Seekers
+CUST01106,46,40327.69,6,37.03,222.16,22,54,0.598,1,2,Male,East,Books,Mobile App,2,Budget Shoppers
+CUST01107,36,73928.86,27,143.19,3866.06,19,87,0.109,0,4,Male,West,Fashion,Online,0,High-Value Loyalists
+CUST01108,42,55226.72,5,47.66,238.3,36,23,0.0,0,3,Female,North,Home & Garden,In-Store,3,At-Risk / Occasional
+CUST01109,38,57815.85,3,31.92,95.77,128,13,0.735,0,4,Male,East,Books,In-Store,2,Budget Shoppers
+CUST01110,41,52099.28,6,12.23,73.35,4,47,0.707,2,4,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST01111,23,51735.85,20,19.17,383.33,68,2,0.626,1,3,Male,West,Electronics,Online,1,Young Trend Seekers
+CUST01112,33,50135.51,1,45.62,45.62,40,6,0.693,0,3,Male,East,Groceries,Online,2,Budget Shoppers
+CUST01113,32,47408.22,5,33.35,166.76,1,23,0.551,1,3,Male,Central,Groceries,In-Store,1,Young Trend Seekers
+CUST01114,28,65648.89,1,73.03,73.03,36,1,0.156,0,3,Male,East,Beauty,Online,3,At-Risk / Occasional
+CUST01115,24,24655.17,4,33.19,132.76,6,20,0.234,0,1,Female,South,Groceries,In-Store,3,At-Risk / Occasional
+CUST01116,52,27644.91,2,58.43,116.86,21,31,0.226,1,2,Male,North,Beauty,Mobile App,3,At-Risk / Occasional
+CUST01117,64,52273.09,7,23.52,164.66,136,27,0.649,1,3,Female,North,Books,Online,2,Budget Shoppers
+CUST01118,25,49157.0,17,43.01,731.18,5,7,0.501,0,4,Female,West,Fashion,Online,1,Young Trend Seekers
+CUST01119,52,44501.32,7,35.39,247.7,41,28,0.671,0,3,Male,West,Home & Garden,Online,2,Budget Shoppers
+CUST01120,61,56662.87,7,33.31,233.14,4,38,0.699,0,4,Male,South,Groceries,In-Store,2,Budget Shoppers
+CUST01121,23,27710.85,15,39.49,592.42,5,17,0.105,0,4,Male,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST01122,20,71038.75,15,51.95,779.32,1,5,0.561,1,3,Male,Central,Beauty,Mobile App,1,Young Trend Seekers
+CUST01123,18,25433.79,19,32.4,615.53,42,12,0.814,0,4,Male,West,Beauty,Mobile App,1,Young Trend Seekers
+CUST01124,20,57649.34,16,37.58,601.32,1,7,0.889,0,3,Male,South,Fashion,Mobile App,1,Young Trend Seekers
+CUST01125,32,33188.02,4,76.28,305.12,5,5,0.45,1,3,Male,South,Groceries,Mobile App,1,Young Trend Seekers
+CUST01126,33,64578.91,2,68.94,137.88,8,27,0.226,0,2,Female,Central,Fashion,Online,3,At-Risk / Occasional
+CUST01127,45,47882.07,6,32.11,192.67,73,2,0.919,0,3,Female,East,Groceries,In-Store,2,Budget Shoppers
+CUST01128,47,118457.63,26,174.62,4540.13,28,76,0.176,2,4,Female,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST01129,62,110320.88,24,190.3,4567.22,1,94,0.131,2,3,Female,South,Electronics,In-Store,0,High-Value Loyalists
+CUST01130,49,45079.28,10,34.37,343.7,11,31,0.636,3,2,Female,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST01131,65,24387.87,3,41.47,124.41,65,1,0.182,0,4,Female,East,Groceries,Online,2,Budget Shoppers
+CUST01132,25,113123.0,31,109.48,3393.82,5,89,0.099,5,3,Male,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST01133,36,36824.48,7,34.63,242.44,64,32,0.431,3,4,Female,East,Groceries,Online,1,Young Trend Seekers
+CUST01134,49,53580.23,4,26.0,104.02,4,30,0.451,0,4,Female,South,Books,In-Store,2,Budget Shoppers
+CUST01135,38,34961.98,3,55.68,167.03,34,43,0.582,0,3,Female,East,Fashion,In-Store,2,Budget Shoppers
+CUST01136,52,35465.08,6,16.44,98.61,70,16,0.652,0,3,Male,South,Home & Garden,Online,2,Budget Shoppers
+CUST01137,26,31110.28,16,23.81,380.99,28,23,0.227,1,4,Male,South,Fashion,Online,1,Young Trend Seekers
+CUST01138,46,134538.44,27,79.06,2134.68,2,63,0.154,2,4,Male,West,Sports,In-Store,0,High-Value Loyalists
+CUST01139,45,119334.55,19,161.36,3065.89,1,58,0.413,3,4,Female,Central,Fashion,Online,0,High-Value Loyalists
+CUST01140,26,79256.42,2,37.38,74.76,184,1,0.363,0,2,Male,North,Toys,Mobile App,3,At-Risk / Occasional
+CUST01141,24,35577.64,13,35.26,458.44,7,22,0.346,1,4,Male,Central,Beauty,Online,1,Young Trend Seekers
+CUST01142,57,123663.62,25,98.47,2461.77,3,75,0.152,2,4,Female,Central,Electronics,Mobile App,0,High-Value Loyalists
+CUST01143,57,55497.54,2,46.51,93.03,365,29,0.42,2,4,Female,South,Groceries,In-Store,3,At-Risk / Occasional
+CUST01144,56,54355.83,1,50.03,50.03,26,8,0.217,0,3,Female,West,Sports,Online,3,At-Risk / Occasional
+CUST01145,47,45350.83,8,19.34,154.7,44,26,0.96,0,3,Female,West,Groceries,In-Store,2,Budget Shoppers
+CUST01146,27,55080.29,13,36.0,467.95,11,35,0.37,1,3,Female,Central,Fashion,Mobile App,1,Young Trend Seekers
+CUST01147,51,65736.26,2,66.13,132.27,212,1,0.569,0,2,Female,North,Toys,In-Store,3,At-Risk / Occasional
+CUST01148,53,42270.62,3,65.7,197.11,12,12,0.579,0,2,Female,East,Beauty,In-Store,2,Budget Shoppers
+CUST01149,20,41877.93,14,35.54,497.53,14,4,0.591,1,4,Other,Central,Fashion,Online,1,Young Trend Seekers
+CUST01150,18,35143.76,14,54.19,758.69,6,24,0.74,0,2,Female,Central,Fashion,Online,1,Young Trend Seekers
+CUST01151,30,58207.41,3,40.57,121.72,6,29,0.807,0,2,Male,Central,Sports,Online,2,Budget Shoppers
+CUST01152,26,47404.94,17,24.95,424.13,10,29,0.53,1,4,Other,Central,Beauty,Mobile App,1,Young Trend Seekers
+CUST01153,39,32763.99,1,32.63,32.63,5,23,0.35,0,2,Male,North,Home & Garden,In-Store,3,At-Risk / Occasional
+CUST01154,42,60005.43,2,44.3,88.61,93,14,0.224,0,3,Female,West,Home & Garden,Online,3,At-Risk / Occasional
+CUST01155,41,35372.94,3,53.33,159.99,104,23,0.185,2,3,Male,South,Beauty,In-Store,3,At-Risk / Occasional
+CUST01156,40,49935.33,1,35.45,35.45,21,1,0.449,0,3,Female,South,Electronics,Online,3,At-Risk / Occasional
+CUST01157,49,40298.48,4,19.89,79.56,6,13,0.654,0,3,Male,Central,Groceries,In-Store,2,Budget Shoppers
+CUST01158,21,44204.0,21,26.69,560.44,1,16,0.758,1,4,Female,North,Beauty,Online,1,Young Trend Seekers
+CUST01159,26,42181.31,10,23.12,231.2,40,1,0.292,0,2,Other,West,Fashion,Mobile App,3,At-Risk / Occasional
+CUST01160,55,46016.82,5,21.36,106.79,3,59,0.82,0,4,Female,Central,Home & Garden,Online,2,Budget Shoppers
+CUST01161,28,33861.68,15,31.81,477.1,44,1,0.467,1,3,Female,Central,Beauty,Mobile App,1,Young Trend Seekers
+CUST01162,54,35753.05,7,31.94,223.6,4,52,0.86,0,4,Female,Central,Home & Garden,In-Store,2,Budget Shoppers
+CUST01163,64,127698.49,17,178.26,3030.45,7,39,0.152,0,5,Male,West,Sports,Mobile App,0,High-Value Loyalists
+CUST01164,21,32258.73,1,57.11,57.11,34,66,0.569,0,3,Female,South,Home & Garden,Online,2,Budget Shoppers
+CUST01165,43,43090.6,12,44.49,533.85,59,22,0.639,0,3,Male,West,Home & Garden,Online,2,Budget Shoppers
+CUST01166,19,40068.69,13,39.93,519.12,6,7,0.426,2,2,Male,West,Electronics,Mobile App,1,Young Trend Seekers
+CUST01167,19,28412.84,19,18.29,347.42,2,16,0.37,1,3,Female,South,Electronics,Online,1,Young Trend Seekers
+CUST01168,18,45117.02,3,69.63,208.88,6,21,0.421,0,2,Female,North,Sports,In-Store,3,At-Risk / Occasional
+CUST01169,44,43547.47,4,15.98,63.92,47,31,0.748,0,3,Male,Central,Groceries,In-Store,2,Budget Shoppers
+CUST01170,44,107271.71,29,96.83,2808.02,6,44,0.262,3,5,Female,West,Fashion,Online,0,High-Value Loyalists
+CUST01171,31,45651.4,1,35.28,35.28,272,12,0.468,0,2,Female,West,Books,Mobile App,3,At-Risk / Occasional
+CUST01172,18,24504.39,13,24.71,321.28,3,23,0.397,0,3,Male,Central,Beauty,Mobile App,1,Young Trend Seekers
+CUST01173,39,15000.0,1,17.63,17.63,26,22,0.476,0,2,Female,North,Groceries,In-Store,2,Budget Shoppers
+CUST01174,45,45982.33,7,37.92,265.43,83,18,0.711,3,3,Female,North,Books,Online,2,Budget Shoppers
+CUST01175,40,35151.73,3,56.5,169.5,119,21,0.617,0,3,Male,Central,Fashion,Online,3,At-Risk / Occasional
+CUST01176,18,44615.47,2,44.71,89.42,56,1,0.468,0,2,Female,East,Home & Garden,Mobile App,3,At-Risk / Occasional
+CUST01177,57,24983.76,1,48.72,48.72,7,3,0.615,0,3,Male,South,Home & Garden,Online,2,Budget Shoppers
+CUST01178,41,42476.46,11,12.11,133.19,29,42,0.64,0,2,Female,Central,Groceries,Mobile App,2,Budget Shoppers
+CUST01179,27,64812.54,1,51.48,51.48,84,2,0.374,0,2,Female,South,Books,Online,3,At-Risk / Occasional
+CUST01180,28,97315.34,2,48.72,97.44,18,31,0.186,0,3,Male,South,Groceries,In-Store,3,At-Risk / Occasional
+CUST01181,25,23455.05,8,55.91,447.26,33,20,0.482,0,4,Male,West,Fashion,Mobile App,1,Young Trend Seekers
+CUST01182,45,63281.59,28,99.3,2780.3,1,80,0.08,1,4,Male,West,Sports,In-Store,0,High-Value Loyalists
+CUST01183,40,57767.75,5,39.98,199.92,5,17,0.115,1,3,Other,Central,Books,Mobile App,3,At-Risk / Occasional
+CUST01184,22,40669.58,18,40.43,727.72,1,6,0.494,1,3,Male,West,Electronics,Mobile App,1,Young Trend Seekers
+CUST01185,27,45683.33,10,25.12,251.25,10,26,0.889,1,3,Male,North,Groceries,Online,1,Young Trend Seekers
+CUST01186,25,25328.93,20,13.0,259.96,21,9,0.825,0,3,Female,East,Fashion,Mobile App,1,Young Trend Seekers
+CUST01187,44,64977.03,1,79.47,79.47,46,13,0.489,1,3,Female,West,Toys,In-Store,3,At-Risk / Occasional
+CUST01188,71,38047.17,9,32.32,290.85,22,55,0.571,0,4,Female,Central,Groceries,Mobile App,2,Budget Shoppers
+CUST01189,42,101938.22,25,149.88,3747.08,6,59,0.326,1,3,Female,Central,Electronics,Online,0,High-Value Loyalists
+CUST01190,36,64020.92,2,35.32,70.63,61,45,0.312,0,4,Female,Central,Sports,Mobile App,3,At-Risk / Occasional
+CUST01191,55,39940.08,10,24.03,240.33,91,30,0.593,0,4,Female,West,Home & Garden,In-Store,2,Budget Shoppers
+CUST01192,54,63126.82,1,34.6,34.6,114,39,0.667,0,2,Male,East,Sports,In-Store,2,Budget Shoppers
+CUST01193,38,104678.93,19,118.25,2246.79,9,28,0.261,1,3,Female,South,Fashion,In-Store,0,High-Value Loyalists
+CUST01194,18,48455.02,2,55.42,110.84,49,27,0.31,0,3,Female,Central,Toys,Online,3,At-Risk / Occasional
+CUST01195,60,34221.23,6,34.36,206.18,25,30,0.701,1,3,Female,West,Groceries,Online,2,Budget Shoppers
+CUST01196,26,44525.64,14,36.86,515.99,8,15,1.0,2,3,Female,North,Fashion,Mobile App,1,Young Trend Seekers
+CUST01197,25,48803.11,19,33.18,630.4,3,5,0.516,1,4,Male,South,Beauty,Online,1,Young Trend Seekers
+CUST01198,27,39085.12,17,8.0,136.0,1,2,0.335,0,3,Male,Central,Electronics,Mobile App,1,Young Trend Seekers
+CUST01199,35,57011.03,2,36.14,72.27,220,1,0.565,0,3,Female,East,Sports,In-Store,3,At-Risk / Occasional
+CUST01200,28,31755.22,4,25.26,101.05,90,15,0.612,0,3,Male,North,Groceries,In-Store,3,At-Risk / Occasional
