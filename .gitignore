@@ -1,0 +1,14 @@
+# Power BI temporary files
+*.tmp
+*.bak
+*.pbix.autorecover
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
