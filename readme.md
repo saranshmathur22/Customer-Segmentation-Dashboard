@@ -8,7 +8,7 @@ An interactive **Power BI dashboard** built to analyze customer segments, purcha
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
