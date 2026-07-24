@@ -4,9 +4,11 @@ An interactive **Power BI dashboard** built to analyze customer segments, purcha
 
 ---
 
+
+
 ## 📸 Dashboard Preview
 
-![Customer Segmentation Dashboard](C:/Users/saran/Desktop/dashboard/Dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
